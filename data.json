@@ -1,0 +1,845 @@
+{
+  "dateLabel": "venerdì 20 novembre 2026",
+  "updatedAt": "22:06",
+  "timezone": "Europa/Roma",
+  "audience": "Nicola Fuzio",
+  "pageTitle": "Report mercati — 20 novembre 2026",
+  "headlines": [
+    "Wall Street ha chiuso in pieno risk-off: l'S&P 500 è sceso del 3,70% ed è entrato in territorio di correzione, il Nasdaq ha perso il 5,28% e, secondo Yahoo Finance, ha chiuso in negativo da inizio anno.",
+    "In Europa sono evaporati oltre 370 miliardi di capitalizzazione; a Milano il FTSE MIB ha perso il 2,48%, trascinato da STM (−10,78%) e Prysmian (−6,29%).",
+    "Bitcoin è sceso sotto i 60.000 $ per la prima volta da luglio e, alle 22:06 ora Italia, quota 58.221,01 $."
+  ],
+  "kpis": [
+    {
+      "label": "S&P 500",
+      "value": "6.910,39",
+      "changePct": -3.7,
+      "changeLabel": "−3,70%",
+      "detail": "Chiusura 22:05, Yahoo Finance"
+    },
+    {
+      "label": "Nasdaq",
+      "value": "22.617,73",
+      "changePct": -5.28,
+      "changeLabel": "−5,28%",
+      "detail": "Chiusura 22:05, Yahoo Finance"
+    },
+    {
+      "label": "Dow Jones",
+      "value": "48.147,33",
+      "changePct": -1.93,
+      "changeLabel": "−1,93%",
+      "detail": "Chiusura, Yahoo Finance"
+    },
+    {
+      "label": "FTSE MIB",
+      "value": "48.703,72",
+      "changePct": -2.48,
+      "changeLabel": "−2,48%",
+      "detail": "Chiusura 17:40, Borsa Italiana"
+    },
+    {
+      "label": "Nikkei 225",
+      "value": "56.436,65",
+      "changePct": -5.06,
+      "changeLabel": "−5,06%",
+      "detail": "Chiusura, Nikkei Indexes"
+    },
+    {
+      "label": "Hang Seng",
+      "value": "22.410,8",
+      "changePct": -1.89,
+      "changeLabel": "−1,89%",
+      "detail": "Chiusura, Xinhua"
+    },
+    {
+      "label": "Hang Seng Tech",
+      "value": "3.511,14",
+      "changePct": -3.78,
+      "changeLabel": "−3,78%",
+      "detail": "Chiusura, Xinhua"
+    },
+    {
+      "label": "Brent",
+      "value": "92,57 $",
+      "changePct": 0.64,
+      "changeLabel": "+0,64%",
+      "detail": "Settlement gennaio, Dow Jones / Reuters"
+    },
+    {
+      "label": "WTI",
+      "value": "83,98 $",
+      "changePct": 0.93,
+      "changeLabel": "+0,93%",
+      "detail": "Settlement dicembre, Reuters"
+    },
+    {
+      "label": "TTF",
+      "value": "88,22 €/MWh",
+      "changePct": 4.45,
+      "changeLabel": "+4,45%",
+      "detail": "Dicembre, ANSA 18:11; 88,32 €/MWh alle 19:30 (Teleborsa). Settlement ICE non verificato"
+    },
+    {
+      "label": "Bitcoin",
+      "value": "58.221,01 $",
+      "changePct": -5.28,
+      "changeLabel": "−5,28%",
+      "detail": "22:06, Yahoo Finance; mercato 24h, non è una chiusura ufficiale"
+    },
+    {
+      "label": "Ethereum",
+      "value": "1.599,87 $",
+      "changePct": -8.03,
+      "changeLabel": "−8,03%",
+      "detail": "22:05, Yahoo Finance; mercato 24h, non è una chiusura ufficiale"
+    }
+  ],
+  "indexMoves": [
+    {
+      "label": "TTF",
+      "value": 4.45,
+      "display": "+4,45%"
+    },
+    {
+      "label": "WTI",
+      "value": 0.93,
+      "display": "+0,93%"
+    },
+    {
+      "label": "Brent",
+      "value": 0.64,
+      "display": "+0,64%"
+    },
+    {
+      "label": "Hang Seng",
+      "value": -1.89,
+      "display": "−1,89%"
+    },
+    {
+      "label": "Dow Jones",
+      "value": -1.93,
+      "display": "−1,93%"
+    },
+    {
+      "label": "FTSE MIB",
+      "value": -2.48,
+      "display": "−2,48%"
+    },
+    {
+      "label": "Hang Seng Tech",
+      "value": -3.78,
+      "display": "−3,78%"
+    },
+    {
+      "label": "S&P 500",
+      "value": -3.7,
+      "display": "−3,70%"
+    },
+    {
+      "label": "Nikkei",
+      "value": -5.06,
+      "display": "−5,06%"
+    },
+    {
+      "label": "Nasdaq",
+      "value": -5.28,
+      "display": "−5,28%"
+    },
+    {
+      "label": "Bitcoin",
+      "value": -5.28,
+      "display": "−5,28%"
+    },
+    {
+      "label": "Ethereum",
+      "value": -8.03,
+      "display": "−8,03%"
+    }
+  ],
+  "italianMovers": [
+    {
+      "label": "Saipem",
+      "value": 0.76,
+      "display": "+0,76%"
+    },
+    {
+      "label": "Italgas",
+      "value": 0.5,
+      "display": "+0,5%"
+    },
+    {
+      "label": "Snam",
+      "value": 0.4,
+      "display": "+0,4%"
+    },
+    {
+      "label": "Eni",
+      "value": -2.21,
+      "display": "−2,21%"
+    },
+    {
+      "label": "Intesa",
+      "value": -2.41,
+      "display": "−2,41%"
+    },
+    {
+      "label": "UniCredit",
+      "value": -2.54,
+      "display": "−2,54%"
+    },
+    {
+      "label": "Banco Bpm",
+      "value": -3.02,
+      "display": "−3,02%"
+    },
+    {
+      "label": "WIIT",
+      "value": -5.59,
+      "display": "−5,59%"
+    },
+    {
+      "label": "Prysmian",
+      "value": -6.29,
+      "display": "−6,29%"
+    },
+    {
+      "label": "Technoprobe",
+      "value": -9.31,
+      "display": "−9,31%"
+    },
+    {
+      "label": "STM",
+      "value": -10.78,
+      "display": "−10,78%"
+    }
+  ],
+  "etfFlows": [
+    {
+      "label": "ETF BTC USA, totale",
+      "value": -582.2,
+      "display": "−582,2 mln $"
+    },
+    {
+      "label": "IBIT BlackRock",
+      "value": -541.1,
+      "display": "−541,1 mln $"
+    },
+    {
+      "label": "ETF ether spot",
+      "value": -131.2,
+      "display": "−131,2 mln $"
+    }
+  ],
+  "punZones": [
+    {
+      "label": "Nord",
+      "value": 213.21,
+      "display": "213,21 €/MWh"
+    },
+    {
+      "label": "Nazionale",
+      "value": 198.37,
+      "display": "198,37 €/MWh"
+    },
+    {
+      "label": "Sud / Sicilia",
+      "value": 148.42,
+      "display": "148,42 €/MWh"
+    }
+  ],
+  "news": [
+    {
+      "id": "us-close",
+      "sectors": [
+        "azionario"
+      ],
+      "title": "Wall Street chiude in correzione",
+      "summary": "L'S&P 500 ha chiuso a 6.910,39 punti (−3,70%), il Nasdaq Composite a 22.617,73 (−5,28%) e il Dow Jones a 48.147,33 (−1,93%). Yahoo Finance indica che Dow e S&P 500 hanno chiuso oltre il 10% sotto i rispettivi massimi, e che il Nasdaq ha chiuso in negativo da inizio anno.",
+      "why": "È una seduta di avversione al rischio: il trade sull'AI non ha retto nemmeno dopo l'IPO di Anthropic.",
+      "sources": [
+        {
+          "title": "S&P 500, chiusura",
+          "href": "https://finance.yahoo.com/quote/%5EGSPC/",
+          "site": "Yahoo Finance"
+        },
+        {
+          "title": "Nasdaq Composite, chiusura",
+          "href": "https://finance.yahoo.com/quote/%5EIXIC/",
+          "site": "Yahoo Finance"
+        },
+        {
+          "title": "Resoconto di chiusura",
+          "href": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
+          "site": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "europe-milan",
+      "sectors": [
+        "azionario"
+      ],
+      "title": "Europa in rosso, FTSE MIB a −2,48%",
+      "summary": "Il FTSE MIB ha chiuso a 48.703,72 punti (−2,48%), quinto ribasso consecutivo. Francoforte ha perso il 2,60% a 24.802, Parigi l'1,89% a 7.927, Madrid l'1,69% a 18.862 e Londra l'1,02% a 10.346. ANSA stima oltre 370 miliardi di capitalizzazione evaporati in Europa. Saipem è stata l'unica blue chip in evidenza positiva, a +0,76%.",
+      "why": "Il sell-off statunitense si è trasmesso su banche, industria e tech europei nella chiusura settimanale.",
+      "sources": [
+        {
+          "title": "FTSE MIB, lista ufficiale",
+          "href": "https://www.borsaitaliana.it/borsa/azioni/ftse-mib/lista.html",
+          "site": "Borsa Italiana"
+        },
+        {
+          "title": "L'Europa chiude in rosso",
+          "href": "https://www.ansa.it/sito/notizie/economia/2026/11/20/borsa-leuropa-chiude-in-rosso-bruciati-370-miliardi_8ed8cd41-f081-42ee-9a80-a76c502c494c.html",
+          "site": "ANSA"
+        },
+        {
+          "title": "Chiusura in profondo rosso per l'Europa",
+          "href": "https://teleborsa.ansa.it/notiziario/finanza/chiusura-in-profondo-rosso-per-leuropa-con-crollo-tech/",
+          "site": "Teleborsa"
+        }
+      ]
+    },
+    {
+      "id": "asia",
+      "sectors": [
+        "azionario"
+      ],
+      "title": "Nikkei −5,06%, Hang Seng −1,89%",
+      "summary": "Il Nikkei 225 ha chiuso a 56.436,65 punti (−3.007,56, −5,06%), con 214 titoli in calo su 225. A Hong Kong l'Hang Seng è sceso a 22.410,8 (−1,89%) e l'Hang Seng Tech a 3.511,14 (−3,78%).",
+      "why": "Il movimento è partito in Asia e ha prezzato già in apertura il ribasso dei titoli legati a chip e intelligenza artificiale.",
+      "sources": [
+        {
+          "title": "Nikkei 225, daily summary",
+          "href": "https://indexes.nikkei.co.jp/en/nkave/archives/summary?dt=11202026&idx=nk225",
+          "site": "Nikkei Indexes"
+        },
+        {
+          "title": "Hang Seng chiude in calo",
+          "href": "https://english.news.cn/20261120/07ee086c83444a9da07602e52b091b33/c.html",
+          "site": "Xinhua"
+        }
+      ]
+    },
+    {
+      "id": "macro-fed",
+      "sectors": [
+        "azionario"
+      ],
+      "title": "Fiducia in miglioramento, mercato ancora sul rialzo Fed",
+      "summary": "L'Università del Michigan ha alzato la stima definitiva di novembre a 51,5, da 48,0 di ottobre. In Europa la fiducia dei consumatori (flash) è salita a −16,9 da −17,9, meglio delle attese (−18). Reuters, sulla scia dei verbali Fed di ottobre, indicava circa il 94% di probabilità di un rialzo di 25 punti base a dicembre.",
+      "why": "I dati di fiducia non hanno contrastato il risk-off, perché il mercato continua a scontare inflazione e tassi più alti.",
+      "sources": [
+        {
+          "title": "Sentiment ticks up",
+          "href": "https://news.umich.edu/sentiment-ticks-up-as-election-expected-to-usher-in-changes-to-economic-policy/",
+          "site": "University of Michigan"
+        },
+        {
+          "title": "Chiusura europea e dati macro",
+          "href": "https://teleborsa.ansa.it/notiziario/finanza/chiusura-in-profondo-rosso-per-leuropa-con-crollo-tech/",
+          "site": "Teleborsa"
+        },
+        {
+          "title": "Verbali Fed e probabilità di rialzo",
+          "href": "https://www.thehindu.com/business/markets/wall-street-ends-sharply-lower-as-anthropics-debut-fails-to-revive-ai-fervour/article71721814.ece",
+          "site": "Reuters via The Hindu"
+        }
+      ]
+    },
+    {
+      "id": "italian-banks",
+      "sectors": [
+        "azionario"
+      ],
+      "title": "Banche italiane sotto pressione",
+      "summary": "Banco Bpm ha chiuso a −3,02%, UniCredit a −2,54% e Intesa a −2,41%. ANSA collega le vendite alle attese di requisiti patrimoniali BCE più stringenti sul rischio informatico e a un emendamento della Lega alla Manovra che propone un incremento di 3 punti dell'IRES. Teleborsa, nel resoconto di chiusura, indicava lo spread BTP-Bund a 111 punti base (+5) e il BTP decennale al 4,42%.",
+      "why": "Il movimento pesa sul FTSE MIB e sullo spread; i requisiti BCE e l'emendamento IRES restano attese o proposte, non decisioni già adottate.",
+      "sources": [
+        {
+          "title": "Chiusura Milano, banche e blue chip",
+          "href": "https://www.ansa.it/sito/notizie/economia/2026/11/20/borsa-milano-chiude-in-forte-ribasso-pesano-stm-e-technoprobe_4f8b08b7-a6c5-4452-bc1a-77d63aadcc19.html",
+          "site": "ANSA"
+        },
+        {
+          "title": "Spread e rendimento BTP",
+          "href": "https://teleborsa.ansa.it/notiziario/finanza/chiusura-in-profondo-rosso-per-leuropa-con-crollo-tech/",
+          "site": "Teleborsa"
+        }
+      ]
+    },
+    {
+      "id": "ai-selloff",
+      "sectors": [
+        "tech"
+      ],
+      "title": "Sell-off AI: Nvidia circa −14%, chip del Nasdaq-100 in bear market",
+      "summary": "I semiconduttori hanno guidato il ribasso. Nvidia ha esteso le perdite fino a circa −14%; AMD, Broadcom e Micron hanno registrato cali a doppia cifra. Yahoo Finance riporta che 71 titoli su 101 del Nasdaq-100 erano in territorio di bear market, inclusi tutti e 20 i titoli di semiconduttori e memorie dell'indice.",
+      "why": "È il segnale più netto che il mercato sta ridimensionando le valutazioni e i piani di investimento sull'intelligenza artificiale.",
+      "sources": [
+        {
+          "title": "Resoconto di chiusura, Nvidia e Nasdaq-100",
+          "href": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
+          "site": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "anthropic",
+      "sectors": [
+        "tech"
+      ],
+      "title": "Anthropic, il giorno dopo l'IPO record, non rilancia il settore",
+      "summary": "Giovedì il titolo ANT aveva aperto a 111,50 $ dopo un collocamento a 83 $ e una raccolta di 81,3 miliardi di dollari, la più grande IPO di sempre, chiudendo a 97,17 $. Venerdì, vicino alla chiusura, Yahoo Finance lo indicava in calo di circa l'8%, ancora poco sopra il prezzo IPO.",
+      "why": "L'atteso reset del trade AI non è arrivato: il mercato ha trattato l'IPO come un evento isolato, non come una riapertura del ciclo.",
+      "sources": [
+        {
+          "title": "Anthropic in calo nella prima seduta piena",
+          "href": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+          "site": "CNBC"
+        },
+        {
+          "title": "Resoconto di chiusura",
+          "href": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
+          "site": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "export-controls",
+      "sectors": [
+        "tech",
+        "energia"
+      ],
+      "title": "Export control USA: documenti al Congresso e regola sull'accesso remoto",
+      "summary": "Il Comitato Affari Esteri della Camera ha reso pubblici documenti secondo cui il Commerce Department, al maggio 2026, aveva autorizzato vendite di oltre 879.000 chip AI a società cinesi; Nvidia ha detto di aver interrotto le spedizioni di H200 in Cina. Il 19 novembre è stata pubblicata una interim final rule del BIS che chiude la scappatoia dell'accesso remoto a chip avanzati tramite data center in Paesi terzi.",
+      "why": "Inasprisce i vincoli su chip, cloud e data center offshore, con effetti su domanda, localizzazione e tempi di realizzazione.",
+      "sources": [
+        {
+          "title": "Vendite di chip AI autorizzate verso la Cina",
+          "href": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+          "site": "CNBC"
+        },
+        {
+          "title": "Addressing Remote Access to Advanced Semiconductors",
+          "href": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
+          "site": "Federal Register"
+        }
+      ]
+    },
+    {
+      "id": "stm-technoprobe",
+      "sectors": [
+        "tech",
+        "azionario"
+      ],
+      "title": "A Milano, STM e Technoprobe pagano il contagio sui chip",
+      "summary": "STMicroelectronics ha chiuso a −10,78% e Technoprobe a −9,31%.",
+      "why": "È il canale più diretto con cui il sell-off dei semiconduttori statunitensi ha colpito Piazza Affari.",
+      "sources": [
+        {
+          "title": "Chiusura Milano, STM e Technoprobe",
+          "href": "https://www.ansa.it/sito/notizie/economia/2026/11/20/borsa-milano-chiude-in-forte-ribasso-pesano-stm-e-technoprobe_4f8b08b7-a6c5-4452-bc1a-77d63aadcc19.html",
+          "site": "ANSA"
+        }
+      ]
+    },
+    {
+      "id": "huang-hearing",
+      "sectors": [
+        "tech"
+      ],
+      "title": "Audizioni Huang in agenda a inizio dicembre",
+      "summary": "Jensen Huang è atteso il 1° dicembre per un'intervista a porte chiuse con il Comitato Affari Esteri della Camera e altri due comitati; il 2 dicembre è previsto il general counsel di Nvidia.",
+      "why": "Tiene alto il rischio regolatorio e reputazionale sul titolo e sull'intero comparto dei chip.",
+      "sources": [
+        {
+          "title": "Calendario audizioni Huang",
+          "href": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+          "site": "CNBC"
+        }
+      ]
+    },
+    {
+      "id": "oil",
+      "sectors": [
+        "energia"
+      ],
+      "title": "Petrolio in rialzo in chiusura, terza settimana di calo",
+      "summary": "Il Brent scadenza gennaio è sceso a 92,57 $ (+0,59 $, +0,64%) e il WTI dicembre a 83,98 $ (+0,77 $, +0,93%). Sul settimanale il Brent ha perso il 3,41%. Reuters attribuisce il recupero di fine seduta a tensioni Iran/Houthi e a coperture prima del Thanksgiving, mentre i flussi attraverso Hormuz sono tornati su livelli pre-guerra.",
+      "why": "Geopolitica e surplus di offerta si contrastano: i prezzi restano volatili, ma la direzione settimanale è ancora al ribasso.",
+      "sources": [
+        {
+          "title": "Settlement Brent, Data Talk",
+          "href": "https://www.morningstar.com/news/dow-jones/202611207288/front-month-ice-brent-crude-fell-341-this-week-to-settle-at-9257-data-talk",
+          "site": "Dow Jones via Morningstar"
+        },
+        {
+          "title": "Oil gains on Iran war worries",
+          "href": "https://www.streetinsider.com/Commodities/Oil+gains+on+Iran+war+worries+and+short-covering+ahead+of+Thanksgiving+holiday%C2%A0/27377896.html",
+          "site": "Reuters via Street Insider"
+        }
+      ]
+    },
+    {
+      "id": "ttf",
+      "sectors": [
+        "energia"
+      ],
+      "title": "TTF in forte rialzo su flussi norvegesi e freddo in arrivo",
+      "summary": "Alle 18:11 i future TTF dicembre erano a 88,22 €/MWh (+4,45%); alle 19:30 Teleborsa li indicava a 88,32 €/MWh. Lo settlement ufficiale ICE Endex non è stato verificato in modo indipendente.",
+      "why": "Gas più caro si trasferisce sul prezzo elettrico e sul costo di esercizio dei data center.",
+      "sources": [
+        {
+          "title": "TTF sopra 88 euro",
+          "href": "https://www.ansa.it/sito/notizie/economia/2026/11/20/il-gas-sale-ancora-e-supera-gli-88-euro-sulla-piazza-ttf-di-amsterdam_0e26f329-ba37-43e2-b910-b92119eea56a.html",
+          "site": "ANSA"
+        },
+        {
+          "title": "Natural Gas Amsterdam alle 19:30",
+          "href": "https://www.teleborsa.it/News/2026/11/20/natural-gas-amsterdam-a-88-32-euro-per-megawatt-ora-alle-19-30-245_TLB-1LINER.html",
+          "site": "Teleborsa"
+        }
+      ]
+    },
+    {
+      "id": "eu-gas",
+      "sectors": [
+        "energia"
+      ],
+      "title": "UE: stoccaggi al circa 70%, nessuna allerta immediata per l'inverno",
+      "summary": "Il Gas Coordination Group ha confermato oggi che l'UE è preparata per l'inverno e per il phase-out del GNL russo dal 1° gennaio 2027; non sono stati segnalati rischi di sicurezza delle forniture. Gli stoccaggi sono indicati intorno al 70%.",
+      "why": "Il quadro di policy è rassicurante, ma i prezzi restano tesi e gli stoccaggi non andranno bruciati troppo prima dell'estate.",
+      "sources": [
+        {
+          "title": "Gas Coordination Group, winter preparedness",
+          "href": "https://energy.ec.europa.eu/news/gas-coordination-group-confirms-eus-winter-preparedness-importance-gas-storage-through-winter-2026-11-20_en",
+          "site": "Commissione europea"
+        }
+      ]
+    },
+    {
+      "id": "pun",
+      "sectors": [
+        "energia"
+      ],
+      "title": "PUN Italia: nazionale a 198,37 €/MWh, Sud molto più basso",
+      "summary": "Per il 20 novembre Energy Index, citando il GME, indica un PUN medio di 198,37 €/MWh (−9,4% sul giorno precedente), con PUN Sud e Sicilia a 148,42 €/MWh contro 213,21 €/MWh al Nord.",
+      "why": "Per una DevCo energetica e immobiliare e per lo sviluppo di data center in Puglia, il differenziale zonale resta un vantaggio sul costo dell'energia, ma il livello assoluto è comunque elevato e il TTF in rialzo va monitorato.",
+      "sources": [
+        {
+          "title": "PUN per zona, dati GME",
+          "href": "https://energyindex.it/it",
+          "site": "Energy Index"
+        }
+      ]
+    },
+    {
+      "id": "prysmian-wiit",
+      "sectors": [
+        "energia",
+        "azionario"
+      ],
+      "title": "Prysmian −6,29% e WIIT −5,59%: il dubbio sul capex AI arriva alle infrastrutture",
+      "summary": "Le vendite hanno colpito Prysmian, titolo chiave per cavi e rete, e WIIT, operatore cloud e data center. Eni ha chiuso a −2,21%; Italgas a +0,5% e Snam a +0,4% dopo un report Barclays sulle infrastrutture.",
+      "why": "Il mercato sta scontando data center più costosi e più lenti da costruire, con effetti su rete, allacciamenti e tempistiche di sviluppo.",
+      "sources": [
+        {
+          "title": "Chiusura Milano, Prysmian ed energy",
+          "href": "https://www.ansa.it/sito/notizie/economia/2026/11/20/borsa-milano-chiude-in-forte-ribasso-pesano-stm-e-technoprobe_4f8b08b7-a6c5-4452-bc1a-77d63aadcc19.html",
+          "site": "ANSA"
+        },
+        {
+          "title": "Blue chip e Mid Cap in chiusura",
+          "href": "https://teleborsa.ansa.it/notiziario/finanza/chiusura-in-profondo-rosso-per-leuropa-con-crollo-tech/",
+          "site": "Teleborsa"
+        }
+      ]
+    },
+    {
+      "id": "btc",
+      "sectors": [
+        "crypto"
+      ],
+      "title": "Bitcoin sotto i 60.000 $, ai minimi da luglio",
+      "summary": "Reuters lo indicava a 59.381 $ verso le 17:30 ora Italia. Alle 22:06 Yahoo Finance lo quotava a 58.221,01 $ (−5,28% su 61.904,76 $), con un minimo di giornata a 57.950,42 $, vicino al minimo a 52 settimane di 57.747,77 $.",
+      "why": "È la rottura di un livello psicologico in un contesto di riduzione della leva e risk-off generalizzato.",
+      "sources": [
+        {
+          "title": "Bitcoin falls below $60,000",
+          "href": "https://www.investing.com/news/stock-market-news/bitcoin-falls-below-60000-level-5042271",
+          "site": "Reuters via Investing.com"
+        },
+        {
+          "title": "Bitcoin, prezzo live",
+          "href": "https://finance.yahoo.com/quote/BTC-USD/",
+          "site": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "eth",
+      "sectors": [
+        "crypto"
+      ],
+      "title": "Ethereum più debole di Bitcoin",
+      "summary": "Alle 22:05 ora Italia ether era a 1.599,87 $ (−8,03%).",
+      "why": "Il beta più alto di ether amplifica il deflusso dai risk asset.",
+      "sources": [
+        {
+          "title": "Ethereum, prezzo live",
+          "href": "https://finance.yahoo.com/quote/ETH-USD/",
+          "site": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "etf-flows",
+      "sectors": [
+        "crypto"
+      ],
+      "title": "ETF spot: deflussi record su IBIT giovedì",
+      "summary": "Gli ETF bitcoin spot USA hanno registrato −582,2 milioni di dollari netti il 19 novembre; di questi, −541,1 milioni da iShares Bitcoin Trust (IBIT) di BlackRock, il maggior deflusso giornaliero da lancio. Nel mese i deflussi netti sono a circa 3,47 miliardi di dollari. Gli ETF ether spot hanno perso 131,2 milioni, quarto giorno negativo della settimana.",
+      "why": "La domanda istituzionale via ETF, finora il principale assorbitore, è in fase di uscita.",
+      "sources": [
+        {
+          "title": "Flussi ETF bitcoin e ether, dati SoSoValue",
+          "href": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
+          "site": "The Block"
+        }
+      ]
+    },
+    {
+      "id": "liquidations",
+      "sectors": [
+        "crypto"
+      ],
+      "title": "Liquidazioni elevate sul derivato",
+      "summary": "CoinDesk e Bloomberg Línea, citando CoinGlass, indicano circa 1,5 miliardi di dollari di posizioni crypto liquidate in 24 ore, in prevalenza long.",
+      "why": "La discesa è stata accelerata dalla chiusura forzata di leve, non solo da vendite spot.",
+      "sources": [
+        {
+          "title": "Bitcoin plunges below $59,000",
+          "href": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+          "site": "CoinDesk"
+        }
+      ]
+    }
+  ],
+  "rumors": [
+    {
+      "title": "Nvidia / Inception",
+      "detail": "Su X circola la voce di trattative avanzate per acquisire la startup AI Inception per oltre 500 milioni di dollari. Non risulta confermata da comunicati ufficiali.",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "title": "Michael Burry e lo short su Nvidia",
+      "detail": "Sintesi su X lo danno in riduzione del 50% della posizione short su Nvidia. Manca un riscontro su filing o dichiarazione primaria.",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "title": "AMD / Hunterbrook",
+      "detail": "Giovedì Hunterbrook ha dichiarato una posizione short e ha avanzato accuse sul rispetto dei controlli all'export. CNBC ha scritto di non aver verificato in modo indipendente quelle affermazioni.",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "title": "Geopolitica e Fed",
+      "detail": "CBS cita il timore di nuovi attacchi USA-Israele sull'Iran e l'ipotesi di uno shutdown governativo già a dicembre. Tra gli analisti si discute anche di un rialzo da 50 punti base, evocato da Waller nei giorni scorsi. Restano scenari, non decisioni.",
+      "sectors": [
+        "azionario",
+        "energia"
+      ]
+    },
+    {
+      "title": "Capex dei data center",
+      "detail": "Diversi gestori, in un commento raccolto da Reuters, ritengono che i data center diventeranno più costosi e più lenti da costruire. È un'opinione di mercato, coerente con il calo di Prysmian e WIIT, non un dato di policy.",
+      "sectors": [
+        "energia",
+        "tech"
+      ]
+    }
+  ],
+  "agenda": [
+    {
+      "title": "Lunedì 23 novembre — PMI flash S&P globali",
+      "detail": "Primo test sulla crescita dopo la settimana di vendite. In Giappone i mercati sono chiusi per il Labour Thanksgiving Day."
+    },
+    {
+      "title": "Mercoledì 25 novembre — PCE USA, GDP e altri dati",
+      "detail": "In agenda PCE di ottobre, seconda stima del PIL del terzo trimestre, richieste di disoccupazione e beni durevoli. Reuters riporta attese di inflazione core PCE al 3,2% anno su anno, sopra il 2% della Fed. Per il Thanksgiving il calendario USA è compresso in quella seduta."
+    },
+    {
+      "title": "Giovedì 26 novembre — Thanksgiving USA e verbali BCE",
+      "detail": "Mercati americani chiusi. In Europa uscita dei verbali BCE di ottobre. Liquidità sottile da mercoledì pomeriggio fino a venerdì."
+    },
+    {
+      "title": "Domenica 29 novembre — riunioni OPEC+",
+      "detail": "Policy di produzione 2027, dopo tre settimane di calo del petrolio. Subito dopo, il 1° dicembre è prevista l'audizione di Jensen Huang al Congresso; il FOMC è in agenda l'8-9 dicembre."
+    }
+  ],
+  "homeTiles": [
+    {
+      "screen": "azionario",
+      "title": "Azionario",
+      "kpiLabel": "S&P 500"
+    },
+    {
+      "screen": "tech",
+      "title": "Tech",
+      "kpiLabel": "Nasdaq"
+    },
+    {
+      "screen": "energia",
+      "title": "Energia",
+      "kpiLabel": "TTF"
+    },
+    {
+      "screen": "crypto",
+      "title": "Crypto",
+      "kpiLabel": "Bitcoin"
+    }
+  ],
+  "sectors": {
+    "azionario": {
+      "title": "Azionario",
+      "lead": "Chiusura di venerdì 20 novembre 2026 sui listini USA, europei e asiatici.",
+      "kpiLabels": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "FTSE MIB",
+        "Nikkei 225",
+        "Hang Seng"
+      ],
+      "charts": [
+        {
+          "heading": "Variazioni degli indici",
+          "caption": "Variazione percentuale di chiusura, dal rialzo più contenuto al calo più ampio.",
+          "source": "indexMoves",
+          "labels": [
+            "Hang Seng",
+            "Dow Jones",
+            "FTSE MIB",
+            "S&P 500",
+            "Nikkei",
+            "Nasdaq"
+          ],
+          "emphasis": "none"
+        },
+        {
+          "heading": "Titoli italiani più mossi",
+          "caption": "Chiusura di Piazza Affari. Fonte: ANSA e Teleborsa.",
+          "source": "italianMovers",
+          "emphasis": "none"
+        }
+      ]
+    },
+    "tech": {
+      "title": "Tech",
+      "lead": "Sell-off sui titoli legati all'intelligenza artificiale e ai semiconduttori.",
+      "kpiLabels": [
+        "Nasdaq",
+        "Hang Seng Tech"
+      ],
+      "charts": [
+        {
+          "heading": "Variazioni tech",
+          "caption": "Nasdaq Composite e Hang Seng Tech, chiusure del 20 novembre 2026.",
+          "source": "indexMoves",
+          "labels": [
+            "Hang Seng Tech",
+            "Nasdaq"
+          ],
+          "emphasis": "none"
+        },
+        {
+          "heading": "Chip a Piazza Affari",
+          "caption": "Chiusura. Fonte: ANSA.",
+          "source": "italianMovers",
+          "labels": [
+            "Technoprobe",
+            "STM"
+          ],
+          "emphasis": "none"
+        }
+      ]
+    },
+    "energia": {
+      "title": "Energia",
+      "lead": "Petrolio, gas TTF e prezzo elettrico italiano, con il differenziale zonale per il Sud.",
+      "kpiLabels": [
+        "Brent",
+        "WTI",
+        "TTF"
+      ],
+      "charts": [
+        {
+          "heading": "Variazioni di petrolio e gas",
+          "caption": "Brent e WTI sono settlement ufficiali; il TTF è una quotazione di tarda giornata, settlement ICE non verificato.",
+          "source": "indexMoves",
+          "labels": [
+            "TTF",
+            "WTI",
+            "Brent"
+          ],
+          "emphasis": "none"
+        },
+        {
+          "heading": "PUN Italia per zona",
+          "caption": "Prezzi in €/MWh per il 20 novembre 2026. Fonte: Energy Index, dati GME.",
+          "source": "punZones",
+          "emphasis": 2,
+          "kind": "level",
+          "note": "Il PUN Sud e Sicilia, a 148,42 €/MWh, resta sotto il Nord (213,21) e la media nazionale (198,37). Dato rilevante per lo sviluppo energetico e dei data center in Puglia, da leggere insieme al rialzo del TTF."
+        },
+        {
+          "heading": "Titoli energetici e di rete",
+          "caption": "Chiusura di Piazza Affari. Fonte: ANSA e Teleborsa.",
+          "source": "italianMovers",
+          "labels": [
+            "Saipem",
+            "Italgas",
+            "Snam",
+            "Eni",
+            "WIIT",
+            "Prysmian"
+          ],
+          "emphasis": "none"
+        }
+      ]
+    },
+    "crypto": {
+      "title": "Crypto",
+      "lead": "Prezzi live alle 22:06 ora Italia e deflussi ETF di giovedì 19 novembre.",
+      "kpiLabels": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "charts": [
+        {
+          "heading": "Variazioni di giornata",
+          "caption": "Prezzi Yahoo Finance alle 22:06 (bitcoin) e 22:05 (ether). Non sono chiusure ufficiali.",
+          "source": "indexMoves",
+          "labels": [
+            "Bitcoin",
+            "Ethereum"
+          ],
+          "emphasis": "none"
+        },
+        {
+          "heading": "Flussi ETF bitcoin ed ether",
+          "caption": "Deflussi netti del 19 novembre 2026, in milioni di dollari. Fonte: The Block, dati SoSoValue. I flussi di venerdì non sono ancora disponibili.",
+          "source": "etfFlows",
+          "emphasis": "none"
+        }
+      ]
+    }
+  }
+}
