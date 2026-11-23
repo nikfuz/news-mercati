@@ -1,168 +1,168 @@
 {
-  "dateLabel": "domenica 22 novembre 2026",
-  "updatedAt": "08:35",
+  "dateLabel": "lunedì 23 novembre 2026",
+  "updatedAt": "08:40",
   "timezone": "Europa/Roma",
   "audience": "Nicola Fuzio",
-  "pageTitle": "Report mercati — 22 novembre 2026",
+  "pageTitle": "Report mercati — 23 novembre 2026",
   "headlines": [
-    "Lunedì si riapre dopo la settimana peggiore dell'anno per il tech: S&P 500 e Dow in correzione, Nasdaq negativo da inizio anno, VIX sopra 30; Goldman avverte di una nuova ondata di vendite dei fondi sistematici.",
-    "Bitcoin rimbalza: dal minimo di 55.130 $ di sabato (il più basso da settembre 2024) è tornato sopra i 60.000 $; alle 08:22 ora Italia quota circa 59.030 $.",
-    "Hormuz: sabato due petroliere colpite da proiettili vicino all'Oman (UKMTO) mentre l'Iran prepara oltre 14 petroliere a Kharg per sfidare il blocco USA: rischio di rialzo per petrolio e gas all'apertura."
+    "Rimbalzo in vista dopo la settimana nera del tech: future S&P 500 +2,16% e Nasdaq 100 +3,03% (CNBC, 07:47 ora italiana), ma in Asia il KOSPI chiude −3,31% e Tokyo è chiusa per festività.",
+    "Nvidia resta il nodo: Trump chiede al board di riprendere Jensen Huang, che il board ha già escluso, mentre il Tesoro (Bessent) dice di aspettare ancora risposte sulle vendite di chip alla Cina.",
+    "Golfo: l'Iran dice che due superpetroliere hanno urtato mine vicino a Hormuz, gli Houthi rivendicano un attacco a una raffineria saudita e Trump dice di essere propenso a riprendere i raid dopo Capodanno; il Brent tiene in area 92-93 $."
   ],
   "kpis": [
+    {
+      "label": "Future S&P 500",
+      "value": "+2,16%",
+      "changePct": 2.16,
+      "changeLabel": "+2,16%",
+      "detail": "Pre-mercato 07:47 Europa/Roma, CNBC"
+    },
+    {
+      "label": "Future Nasdaq 100",
+      "value": "+3,03%",
+      "changePct": 3.03,
+      "changeLabel": "+3,03%",
+      "detail": "Pre-mercato 07:47 Europa/Roma, CNBC"
+    },
     {
       "label": "S&P 500",
       "value": "6.910,39",
       "changePct": -3.7,
       "changeLabel": "−3,70%",
-      "detail": "Chiusura 22:05, Yahoo Finance"
+      "detail": "Chiusura ven 20/11, Yahoo Finance"
     },
     {
       "label": "Nasdaq",
       "value": "22.617,73",
       "changePct": -5.28,
       "changeLabel": "−5,28%",
-      "detail": "Chiusura 22:05, Yahoo Finance"
+      "detail": "Chiusura ven 20/11, Yahoo Finance"
     },
     {
       "label": "Dow Jones",
       "value": "48.147,33",
       "changePct": -1.93,
       "changeLabel": "−1,93%",
-      "detail": "Chiusura, Yahoo Finance"
+      "detail": "Chiusura ven 20/11, Yahoo Finance"
     },
     {
       "label": "FTSE MIB",
       "value": "48.703,72",
       "changePct": -2.48,
       "changeLabel": "−2,48%",
-      "detail": "Chiusura 17:40, Borsa Italiana"
+      "detail": "Chiusura ven 20/11, Borsa Italiana; oggi stacco cedole (−1,4% sull'indice)"
     },
     {
-      "label": "Nikkei 225",
-      "value": "56.436,65",
-      "changePct": -5.06,
-      "changeLabel": "−5,06%",
-      "detail": "Chiusura, Nikkei Indexes"
-    },
-    {
-      "label": "Hang Seng",
-      "value": "22.410,8",
-      "changePct": -1.89,
-      "changeLabel": "−1,89%",
-      "detail": "Chiusura, Xinhua"
-    },
-    {
-      "label": "Hang Seng Tech",
-      "value": "3.511,14",
-      "changePct": -3.78,
-      "changeLabel": "−3,78%",
-      "detail": "Chiusura, Xinhua"
+      "label": "KOSPI",
+      "value": "4.708,54",
+      "changePct": -3.31,
+      "changeLabel": "−3,31%",
+      "detail": "Chiusura 23/11, Yonhap"
     },
     {
       "label": "Brent",
-      "value": "92,57 $",
-      "changePct": 0.64,
-      "changeLabel": "+0,64%",
-      "detail": "Settlement gennaio, Dow Jones / Reuters"
+      "value": "92,67 $",
+      "changePct": 0.11,
+      "changeLabel": "+0,11%",
+      "detail": "05:23 Europa/Roma, Reuters"
     },
     {
       "label": "WTI",
-      "value": "83,98 $",
-      "changePct": 0.93,
-      "changeLabel": "+0,93%",
-      "detail": "Settlement dicembre, Reuters"
+      "value": "83,57 $",
+      "changePct": 0.19,
+      "changeLabel": "+0,19%",
+      "detail": "05:23 Europa/Roma, Reuters"
     },
     {
       "label": "TTF",
       "value": "88,45 €/MWh",
       "changePct": 4.73,
       "changeLabel": "+4,73%",
-      "detail": "Chiusura 20/11, Investing.com (TFAc1)"
+      "detail": "Chiusura ven 20/11, Investing.com; apertura 23/11 a 92,12"
     },
     {
       "label": "Bitcoin",
-      "value": "59.032 $",
-      "changePct": 0.37,
-      "changeLabel": "+0,37%",
-      "detail": "Live 08:22 Europa/Roma, var. da mezzanotte UTC, Exa Markets"
+      "value": "61.445 $",
+      "changePct": 4.47,
+      "changeLabel": "+4,47%",
+      "detail": "Live 08:17 Europa/Roma, var. su chiusura precedente, Exa Markets"
     },
     {
       "label": "Ethereum",
-      "value": "1.660,72 $",
-      "changePct": 2.56,
-      "changeLabel": "+2,56%",
-      "detail": "Live 08:21 Europa/Roma, var. da mezzanotte UTC, Exa Markets"
+      "value": "1.724,04 $",
+      "changePct": 6.47,
+      "changeLabel": "+6,47%",
+      "detail": "Live 08:17 Europa/Roma, var. su chiusura precedente, Exa Markets"
     }
   ],
   "indexMoves": [
     {
-      "label": "TTF",
+      "label": "Ethereum",
+      "value": 6.47,
+      "display": "+6,47%"
+    },
+    {
+      "label": "Bitcoin",
+      "value": 4.47,
+      "display": "+4,47%"
+    },
+    {
+      "label": "Future Nasdaq 100",
+      "value": 3.03,
+      "display": "+3,03%"
+    },
+    {
+      "label": "Future S&P 500",
+      "value": 2.16,
+      "display": "+2,16%"
+    },
+    {
+      "label": "Future Dow",
+      "value": 1.55,
+      "display": "+1,55%"
+    },
+    {
+      "label": "Future Stoxx 50",
+      "value": 0.46,
+      "display": "+0,46%"
+    },
+    {
+      "label": "WTI",
+      "value": 0.19,
+      "display": "+0,19%"
+    },
+    {
+      "label": "Brent",
+      "value": 0.11,
+      "display": "+0,11%"
+    },
+    {
+      "label": "Future FTSE MIB",
+      "value": 0,
+      "display": "0,00% (piatto)"
+    },
+    {
+      "label": "KOSPI",
+      "value": -3.31,
+      "display": "−3,31%"
+    },
+    {
+      "label": "TTF (ven)",
       "value": 4.73,
       "display": "+4,73%"
     },
     {
-      "label": "Ethereum",
-      "value": 2.56,
-      "display": "+2,56%"
-    },
-    {
-      "label": "WTI",
-      "value": 0.93,
-      "display": "+0,93%"
-    },
-    {
-      "label": "Brent",
-      "value": 0.64,
-      "display": "+0,64%"
-    },
-    {
-      "label": "Bitcoin",
-      "value": 0.37,
-      "display": "+0,37%"
-    },
-    {
-      "label": "Hang Seng",
-      "value": -1.89,
-      "display": "−1,89%"
-    },
-    {
-      "label": "Dow Jones",
-      "value": -1.93,
-      "display": "−1,93%"
-    },
-    {
-      "label": "FTSE MIB",
-      "value": -2.48,
-      "display": "−2,48%"
-    },
-    {
-      "label": "S&P 500",
-      "value": -3.7,
-      "display": "−3,70%"
-    },
-    {
-      "label": "Hang Seng Tech",
-      "value": -3.78,
-      "display": "−3,78%"
-    },
-    {
-      "label": "Nikkei",
-      "value": -5.06,
-      "display": "−5,06%"
-    },
-    {
-      "label": "Nasdaq",
+      "label": "Nasdaq (ven)",
       "value": -5.28,
       "display": "−5,28%"
     },
     {
-      "label": "Anthropic",
+      "label": "Anthropic (ven)",
       "value": -8.5,
       "display": "−8,50%"
     },
     {
-      "label": "Nvidia",
+      "label": "Nvidia (ven)",
       "value": -14.01,
       "display": "−14,01%"
     }
@@ -226,29 +226,24 @@
   ],
   "etfFlows": [
     {
-      "label": "ETF BTC USA, totale 19/11",
-      "value": -582.3,
-      "display": "−582,3 mln $"
+      "label": "ETF BTC USA, totale 16-20/11",
+      "value": -1790,
+      "display": "−1,79 mld $"
     },
     {
-      "label": "IBIT BlackRock 19/11 (record)",
-      "value": -541.0,
-      "display": "−541 mln $"
+      "label": "IBIT BlackRock, settimana",
+      "value": -1368,
+      "display": "−1,368 mld $"
     },
     {
-      "label": "ETF BTC USA, totale 20/11 (IBIT n.d.)",
-      "value": -124.5,
-      "display": "−124,5 mln $"
+      "label": "FBTC Fidelity, settimana",
+      "value": -199,
+      "display": "−199 mln $"
     },
     {
-      "label": "FBTC Fidelity 20/11",
-      "value": -72.4,
-      "display": "−72,4 mln $"
-    },
-    {
-      "label": "GBTC Grayscale 20/11",
-      "value": -32.8,
-      "display": "−32,8 mln $"
+      "label": "MSBT Morgan Stanley, settimana",
+      "value": 53.38,
+      "display": "+53,38 mln $"
     }
   ],
   "punZones": [
@@ -261,100 +256,92 @@
       "label": "PUN 22/11",
       "value": 215.13,
       "display": "215,13 €/MWh"
+    },
+    {
+      "label": "PUN 23/11",
+      "value": 225.83,
+      "display": "225,83 €/MWh"
     }
   ],
   "news": [
     {
-      "id": "monday-setup",
+      "id": "futures-rebound",
       "sectors": [
         "azionario"
       ],
-      "title": "Wall Street verso un lunedì volatile",
-      "summary": "Venerdì S&P 500 (6.910,39, −3,70%) e Dow sono entrati in correzione e il Nasdaq (22.617,73, −5,28%) ha azzerato il guadagno 2026; il VIX è salito sopra 30, ai massimi da marzo. L'RSI dell'S&P 500 sotto 30 segnala ipervenduto.",
-      "why": "Ipervenduto e stagionalità favorevole aprono a un rimbalzo tecnico, ma senza un catalizzatore (PCE più freddo, ripresa del trade AI) il rischio di nuove vendite resta alto.",
+      "title": "Future USA in forte rimbalzo, Europa più cauta",
+      "summary": "Alle 07:47 ora italiana i future su S&P 500 salivano del 2,16%, quelli sul Nasdaq 100 del 3,03% e quelli sul Dow dell'1,55%. In Europa future Stoxx 50 +0,46%, FTSE MIB piatto; a Piazza Affari lo stacco cedole pesa sull'indice per circa l'1,4%.",
+      "why": "Dopo una settimana in cui tutti e tre gli indici USA sono entrati in correzione, il rimbalzo va confermato: la settimana è corta (giovedì Wall Street chiusa per il Thanksgiving) e mercoledì arriva il PCE. Il calo del FTSE MIB da stacco cedole non è una vendita.",
       "sources": [
         {
-          "title": "Outlook settimana 23-27 novembre",
-          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "title": "Live updates, 23 novembre",
+          "href": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
           "site": "CNBC"
         },
         {
-          "title": "S&P 500, chiusura",
-          "href": "https://finance.yahoo.com/quote/%5EGSPC/",
-          "site": "Yahoo Finance"
+          "title": "Borse oggi in diretta",
+          "href": "https://www.milanofinanza.it/news/borse-oggi-diretta-23-novembre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202611230748404021",
+          "site": "MilanoFinanza"
         }
       ]
     },
     {
-      "id": "goldman",
+      "id": "asia",
       "sectors": [
-        "azionario"
+        "azionario",
+        "tech"
       ],
-      "title": "Goldman: possibile nuova ondata di vendite",
-      "summary": "Goldman Sachs stima ulteriori vendite dei fondi sistematici (CTA) e indica il suo Panic Index vicino al massimo. Tre possibili inneschi per un minimo: fiducia ritrovata sugli utili AI, un segnale accomodante della Fed o un forte alleggerimento del posizionamento.",
-      "why": "I flussi meccanici possono amplificare i ribassi a inizio settimana indipendentemente dalle notizie.",
+      "title": "Asia: KOSPI −3,31%, Pechino corre ai ripari",
+      "summary": "Il KOSPI ha chiuso a 4.708,54 (−3,31%) dopo aver perso fino al 5,8% in seduta, con le vendite sui titoli legati all'AI; Tokyo chiusa per festività. In Cina le borse di Shanghai, Shenzhen e Pechino abbassano dal 30 novembre il margine minimo per gli acquisti a leva dal 100% all'80%.",
+      "why": "La Corea, molto esposta a memorie e chip, resta il termometro del trade AI. Le misure cinesi indicano che le autorità vogliono frenare il contagio.",
       "sources": [
         {
-          "title": "Goldman warns of fresh selling wave",
-          "href": "https://www.livemint.com/market/stock-market-news/wall-street-sell-off-is-the-worst-over-goldman-sachs-warns-of-fresh-selling-wave-flags-3-recovery-triggers-11795316021375.html",
-          "site": "Livemint"
+          "title": "Seoul shares plunge over 3 pct",
+          "href": "https://en.yna.co.kr/view/AEN20261123006600320",
+          "site": "Yonhap"
         },
         {
-          "title": "Goldman says selloff has legs",
-          "href": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-stock-selloff-legs-212055157.html",
-          "site": "Yahoo Finance / Bloomberg"
+          "title": "China announces measures to steady stock market",
+          "href": "https://english.news.cn/20261123/652a2973bd6140c2b15d0aae466304ce/c.html",
+          "site": "Xinhua"
+        },
+        {
+          "title": "Avviso sul margine dei finanziamenti",
+          "href": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20261122_10838633.shtml",
+          "site": "Borsa di Shanghai"
         }
       ]
     },
     {
-      "id": "cook",
+      "id": "fed",
       "sectors": [
-        "azionario"
+        "azionario",
+        "crypto"
       ],
-      "title": "Fed: rialzo di dicembre al centro, PCE mercoledì",
-      "summary": "Nel discorso di venerdì la governatrice Lisa Cook ha spiegato il dissenso di ottobre contro la pausa: il rialzo di settembre non basta, l'inflazione resta troppo alta e rinviare potrebbe richiedere strette più dure.",
-      "why": "Un PCE di ottobre più caldo delle attese rafforzerebbe i timori di una stretta più ampia all'FOMC dell'8-9 dicembre; un dato più freddo è uno dei possibili inneschi del rimbalzo.",
+      "title": "Fed: sparite le scommesse su un rialzo di 50 pb",
+      "summary": "Dopo il crollo della scorsa settimana (Nasdaq −10,4%, il calo settimanale più ampio da marzo 2020) i future sui Fed funds non prezzano più un rialzo di mezzo punto a dicembre; resta atteso un rialzo di 25 pb.",
+      "why": "Una Fed meno aggressiva sostiene azioni e crypto, ma un PCE caldo mercoledì potrebbe riaprire l'ipotesi di una stretta più forte.",
       "sources": [
         {
-          "title": "Discorso di Lisa Cook",
-          "href": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
-          "site": "Federal Reserve"
-        },
-        {
-          "title": "Cook: servono rialzi",
-          "href": "https://www.investing.com/news/economy-news/feds-cook-says-rate-hikes-needed-to-lower-high-inflation-5042321",
-          "site": "Reuters / Investing.com"
-        },
-        {
-          "title": "Outlook settimana 23-27 novembre",
-          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
-          "site": "CNBC"
+          "title": "Market rout kills 50 bps December hike bets",
+          "href": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+          "site": "CoinDesk"
         }
       ]
     },
     {
-      "id": "europe-milan",
+      "id": "23-5",
       "sectors": [
         "azionario"
       ],
-      "title": "Europa in rosso, FTSE MIB a −2,48%",
-      "summary": "Il FTSE MIB ha chiuso a 48.703,72 punti (−2,48%), quinto ribasso consecutivo. Francoforte ha perso il 2,60% a 24.802, Parigi l'1,89% a 7.927, Madrid l'1,69% a 18.862 e Londra l'1,02% a 10.346. ANSA stima oltre 370 miliardi di capitalizzazione evaporati in Europa. Saipem è stata l'unica blue chip in evidenza positiva, a +0,76%.",
-      "why": "Il sell-off statunitense si è trasmesso su banche, industria e tech europei nella chiusura settimanale.",
+      "title": "Wall Street quasi 24 ore su 24 dal 6 dicembre",
+      "summary": "Nasdaq e NYSE Arca apriranno al trading sulle azioni USA 23 ore al giorno, cinque giorni a settimana, dalla domenica alle 21:00 ET al venerdì alle 20:00 ET; la seduta regolare resta invariata.",
+      "why": "Più ore di contrattazione significano che le notizie notturne (anche europee e asiatiche) si rifletteranno subito sui prezzi USA, con liquidità più sottile fuori orario.",
       "sources": [
         {
-          "title": "FTSE MIB, lista ufficiale",
-          "href": "https://www.borsaitaliana.it/borsa/azioni/ftse-mib/lista.html",
-          "site": "Borsa Italiana"
-        },
-        {
-          "title": "L'Europa chiude in rosso",
-          "href": "https://www.ansa.it/sito/notizie/economia/2026/11/20/borsa-leuropa-chiude-in-rosso-bruciati-370-miliardi_8ed8cd41-f081-42ee-9a80-a76c502c494c.html",
-          "site": "ANSA"
-        },
-        {
-          "title": "Chiusura in profondo rosso per l'Europa",
-          "href": "https://teleborsa.ansa.it/notiziario/finanza/chiusura-in-profondo-rosso-per-leuropa-con-crollo-tech/",
-          "site": "Teleborsa"
+          "title": "What is 23/5 trading?",
+          "href": "https://www.nasdaq.com/newsroom/nasdaq-explains-what-is-23-5-trading",
+          "site": "Nasdaq"
         }
       ]
     },
@@ -364,89 +351,89 @@
         "tech",
         "azionario"
       ],
-      "title": "Nvidia −14%, notizie di un'indagine contabile SEC",
-      "summary": "Nvidia ha chiuso venerdì a 125,53 $ (−14,01%) con volumi oltre 600 milioni di azioni, circa il 262% sopra la media a tre mesi. Motley Fool riporta notizie di un'indagine contabile della SEC; la società ha perso circa 2.500 miliardi di capitalizzazione dal picco.",
-      "why": "È il titolo guida del trade AI: l'indagine (se confermata) e il calo pesano su tutta la filiera chip e data center, incluse STM e Technoprobe a Milano.",
+      "title": "Nvidia: Trump vuole Huang, il Tesoro vuole risposte",
+      "summary": "Domenica sera Trump ha scritto su Truth Social di sperare che il board riassuma Jensen Huang; il presidente del board, Harvey Jones, ha già escluso il ritorno e ha incaricato Heidrick & Struggles di cercare un nuovo CEO. Bessent (Face the Nation) ha detto che il governo aspetta ancora risposte sulle vendite di chip alla Cina.",
+      "why": "L'incertezza su vertici e conformità all'export pesa sul titolo che guida il trade AI e quindi sul Nasdaq e sui fornitori europei di chip e infrastrutture.",
       "sources": [
         {
-          "title": "Nvidia, chiusura e indagine SEC",
-          "href": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
-          "site": "The Motley Fool"
-        }
-      ]
-    },
-    {
-      "id": "anthropic-riemann",
-      "sectors": [
-        "tech"
-      ],
-      "title": "Anthropic: prova dell'ipotesi di Riemann con Claude verificata da due gruppi",
-      "summary": "Il matematico di Anthropic Levent Alpöge sostiene di aver dimostrato l'ipotesi di Riemann con l'aiuto di Claude in circa sei settimane; sabato due organizzazioni hanno verificato la prova formalizzata (The Guardian). Il titolo ANT aveva chiuso venerdì a 88,91 $ (−8,5%), prima della verifica.",
-      "why": "È il primo test di lunedì per il sentiment sull'AI: può sostenere Anthropic, ma il mercato oggi guarda soprattutto a capex e valutazioni.",
-      "sources": [
-        {
-          "title": "Two groups verify Claude-aided proof",
-          "href": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-          "site": "The Guardian"
+          "title": "Trump urges Nvidia board to rehire Huang",
+          "href": "https://www.investing.com/news/stock-market-news/trump-urges-nvidia-board-to-rehire-jensen-huang-5044292",
+          "site": "Investing.com / Reuters"
         },
         {
-          "title": "Anthropic stock falls amid AI sell-off",
-          "href": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
-          "site": "CNBC"
-        }
-      ]
-    },
-    {
-      "id": "dell",
-      "sectors": [
-        "tech"
-      ],
-      "title": "Dell martedì: primo banco di prova sugli ordini di server AI",
-      "summary": "Dell pubblica i conti del terzo trimestre fiscale 2027 martedì 24 novembre a mercati USA chiusi (call alle 22:30 ora italiana).",
-      "why": "Dopo il crollo di Nvidia, gli ordini di server AI di Dell sono il dato più atteso della settimana per capire se la domanda di infrastruttura regge.",
-      "sources": [
+          "title": "Treasury still waiting for answers from Nvidia",
+          "href": "https://www.politico.com/news/2026/11/22/treasury-department-waiting-answers-nvidia-01179718",
+          "site": "Politico"
+        },
         {
-          "title": "Conference call 24 novembre",
-          "href": "https://investors.delltechnologies.com/news-events/press-releases/detail/1661/dell-technologies-to-hold-conference-call-nov-24-to-discuss-third-quarter-fiscal-2027-financial-results",
-          "site": "Dell Technologies"
+          "title": "Bessent: servono risposte su Nvidia",
+          "href": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/",
+          "site": "CBS News"
         }
       ]
     },
     {
-      "id": "stm-technoprobe",
+      "id": "server-prices",
       "sectors": [
         "tech",
-        "azionario"
+        "energia"
       ],
-      "title": "A Milano, STM e Technoprobe pagano il contagio sui chip",
-      "summary": "STMicroelectronics ha chiuso a −10,78% e Technoprobe a −9,31%.",
-      "why": "È il canale più diretto con cui il sell-off dei semiconduttori statunitensi ha colpito Piazza Affari.",
+      "title": "Server AI: rincari fino al 45% su contratti già firmati",
+      "summary": "Secondo il Financial Times (ripreso da Digitimes), Dell, HPE, Lenovo e Supermicro chiedono il 25-45% in più su ordini firmati mesi fa, per il caro memorie. XTX ha fatto causa a Dell in Irlanda per una richiesta extra di 62-70 milioni $ su un ordine da 549 milioni.",
+      "why": "Per chi sviluppa datacenter il costo dell'IT per MW sale e i contratti a prezzo fisso diventano meno sicuri. Martedì i conti di Dell diranno quanto regge la domanda.",
       "sources": [
         {
-          "title": "Chiusura Milano, STM e Technoprobe",
-          "href": "https://www.ansa.it/sito/notizie/economia/2026/11/20/borsa-milano-chiude-in-forte-ribasso-pesano-stm-e-technoprobe_4f8b08b7-a6c5-4452-bc1a-77d63aadcc19.html",
-          "site": "ANSA"
+          "title": "AI server prices jump up to 45%",
+          "href": "https://www.digitimes.com/news/a20261123VL206/ai-server-dell-price-hpe-lenovo.html",
+          "site": "Digitimes"
+        },
+        {
+          "title": "Tech suppliers jack up AI server prices - FT",
+          "href": "https://seekingalpha.com/news/4675407-tech-suppliers-jack-up-ai-server-prices-after-contracts-inked---ft",
+          "site": "Seeking Alpha"
         }
       ]
     },
     {
-      "id": "hormuz",
+      "id": "dc-tax",
       "sectors": [
+        "tech",
         "energia"
       ],
-      "title": "Hormuz: petroliere colpite vicino all'Oman, convoglio iraniano pronto a Kharg",
-      "summary": "Sabato l'UKMTO ha segnalato due incidenti con petroliere colpite da proiettili non identificati vicino a Khasab (Oman); la marina iraniana dice che una petroliera ha preso fuoco dopo aver urtato una mina. A Kharg oltre 14 petroliere sono pronte a sfidare il blocco USA; il CENTCOM avverte che può fermare anche le navi che caricano greggio iraniano con trasbordi in mare.",
-      "why": "È il principale rischio di rialzo per Brent e TTF all'apertura di lunedì, e quindi per i prezzi elettrici italiani.",
+      "title": "Trump minaccia una tassa sui datacenter costruiti all'estero",
+      "summary": "Trump ha minacciato una \"tremendous tax\" sulle aziende USA che costruiscono datacenter AI fuori dagli Stati Uniti, senza indicare aliquota, base legale o tempi; una nuova tassa federale richiede il Congresso.",
+      "why": "Per ora è solo una minaccia, ma se diventasse legge potrebbe frenare gli investimenti degli hyperscaler USA in Europa e in Italia, compresi i progetti di datacenter.",
       "sources": [
         {
-          "title": "Tankers hit in Strait of Hormuz",
-          "href": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
-          "site": "Al Jazeera / Reuters / AFP"
+          "title": "Trump seeks to penalize companies building data centers abroad",
+          "href": "https://apnews.com/article/trump-artificial-intelligence-data-centers-f1ac03b73d13445400eeed8631d9d879",
+          "site": "AP"
         },
         {
-          "title": "Iran convoy to test US blockade",
-          "href": "https://maritime-executive.com/article/reports-claim-iran-is-preparing-oil-convoy-to-test-u-s-blockade",
-          "site": "The Maritime Executive"
+          "title": "Trump threatens 'tremendous tax'",
+          "href": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+          "site": "The Verge"
+        }
+      ]
+    },
+    {
+      "id": "oracle",
+      "sectors": [
+        "tech"
+      ],
+      "title": "Oracle: il contratto con OpenAI è interamente finanziato",
+      "summary": "Venerdì sera Oracle ha comunicato di aver completato il finanziamento del contratto infrastrutturale con OpenAI dopo un ultimo aumento di capitale da 20 miliardi $ (10 in azioni e 10 in debito), smentendo le ricostruzioni contrarie dei media.",
+      "why": "Riduce un timore chiave sul debito per i datacenter AI, ma il mercato resta scettico sul ritorno di questa spesa.",
+      "sources": [
+        {
+          "title": "Oracle Statement",
+          "href": "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/",
+          "site": "Oracle"
+        },
+        {
+          "title": "Oracle says OpenAI deal is fully funded",
+          "href": "https://www.investing.com/news/stock-market-news/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise-5042771",
+          "site": "Investing.com / Reuters"
         }
       ]
     },
@@ -455,19 +442,45 @@
       "sectors": [
         "energia"
       ],
-      "title": "Petrolio in rialzo in chiusura, terza settimana di calo",
-      "summary": "Il Brent scadenza gennaio è sceso a 92,57 $ (+0,59 $, +0,64%) e il WTI dicembre a 83,98 $ (+0,77 $, +0,93%). Sul settimanale il Brent ha perso il 3,41%. Reuters attribuisce il recupero di fine seduta a tensioni Iran/Houthi e a coperture prima del Thanksgiving, mentre i flussi attraverso Hormuz sono tornati su livelli pre-guerra.",
-      "why": "Geopolitica e surplus di offerta si contrastano: i prezzi restano volatili, ma la direzione settimanale è ancora al ribasso.",
+      "title": "Petrolio stabile, il premio di rischio nel Golfo resta",
+      "summary": "Alle 05:23 ora italiana il Brent era a 92,67 $ (+0,11%) e il WTI a 83,57 $; la scorsa settimana −4% e −5%. Nel weekend gli Houthi hanno rivendicato un attacco alla raffineria saudita di Rabigh, UKMTO ha segnalato più attacchi alle navi e Trump ha detto a Fox News di essere propenso a riprendere i raid sull'Iran dopo Capodanno, se non ci sarà un accordo.",
+      "why": "Le esportazioni dal Golfo continuano e l'eccesso di offerta limita i rialzi, ma l'escalation tiene alto il rischio sui prezzi di petrolio e, di riflesso, di gas ed elettricità in Italia. OPEC+ si riunisce domenica 29.",
       "sources": [
         {
-          "title": "Settlement Brent, Data Talk",
-          "href": "https://www.morningstar.com/news/dow-jones/202611207288/front-month-ice-brent-crude-fell-341-this-week-to-settle-at-9257-data-talk",
-          "site": "Dow Jones via Morningstar"
+          "title": "Oil holds in tight range as Gulf attacks sustain risk premium",
+          "href": "https://www.arabnews.com/energy/oil-holds-in-tight-range-as-gulf-attacks-sustain-risk-premium-3013656",
+          "site": "Arab News / Reuters"
         },
         {
-          "title": "Oil gains on Iran war worries",
-          "href": "https://www.streetinsider.com/Commodities/Oil+gains+on+Iran+war+worries+and+short-covering+ahead+of+Thanksgiving+holiday%C2%A0/27377896.html",
-          "site": "Reuters via Street Insider"
+          "title": "Oil fluctuates as ample supply vies with tensions",
+          "href": "https://www.energyconnects.com/news/oil/2026/november/oil-fluctuates-as-ample-supply-vies-with-middle-east-tensions/",
+          "site": "Bloomberg"
+        },
+        {
+          "title": "Trump warns of new strikes after new year",
+          "href": "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers",
+          "site": "Fox News"
+        }
+      ]
+    },
+    {
+      "id": "mines",
+      "sectors": [
+        "energia"
+      ],
+      "title": "Iran: due superpetroliere sulle mine vicino a Hormuz",
+      "summary": "Domenica la marina dei Pasdaran ha detto che due superpetroliere non identificate hanno urtato mine a nord dell'isola di Ghanam, a est dello Stretto, dopo aver spento i sistemi di navigazione. Non ci sono dettagli verificati su danni o vittime.",
+      "why": "Le mine alzano assicurazioni e noli per il transito da Hormuz, da cui passa anche il GNL del Qatar: un fattore di rischio per il TTF.",
+      "sources": [
+        {
+          "title": "Iran says 2 supertankers struck naval mines",
+          "href": "https://www.aa.com.tr/en/middle-east/iran-says-2-supertankers-struck-naval-mines-near-strait-of-hormuz/4133736",
+          "site": "Anadolu"
+        },
+        {
+          "title": "Two 'violating' supertankers explode near Hormuz",
+          "href": "https://www.dawn.com/news/2046340",
+          "site": "Dawn"
         }
       ]
     },
@@ -476,13 +489,23 @@
       "sectors": [
         "energia"
       ],
-      "title": "TTF venerdì a 88,45 €/MWh (+4,73%)",
-      "summary": "Il future TTF front-month ha chiuso venerdì 20 novembre a 88,451 €/MWh, +4,73%, dopo 84,456 €/MWh di giovedì (Investing.com). Correzione: il valore 84,45 indicato ieri era la chiusura di giovedì.",
-      "why": "Gas in rialzo per la seconda seduta con il rischio Hormuz: pesa sui costi elettrici e sui margini delle utility europee.",
+      "title": "Gas: TTF in rialzo all'apertura della settimana",
+      "summary": "Nella settimana 16-20 novembre il TTF ha perso il 4,8%, chiudendo venerdì a circa 88 €/MWh dopo essere sceso a circa 81 a metà settimana. Lunedì il contratto di dicembre ha aperto a 92,12 €/MWh (Investing.com).",
+      "why": "Con Hormuz sotto pressione e l'inverno alle porte, il gas resta volatile: incide direttamente su PUN e costi energetici di impianti e datacenter in Italia.",
       "sources": [
         {
-          "title": "Dutch TTF, dati storici",
-          "href": "https://www.investing.com/commodities/dutch-ttf-gas-c1-futures-historical-data",
+          "title": "European natural gas prices fall 4.8% week on week",
+          "href": "https://www.aa.com.tr/en/energy/natural-gas/european-natural-gas-prices-fall-48-week-on-week/61174",
+          "site": "Anadolu"
+        },
+        {
+          "title": "TTF weekly review",
+          "href": "https://eurolng.com/topics/ttf-weekly-review-mid-week-sell-off-and-rebound-keep-prices-in-the-mid-to-high-e80s/",
+          "site": "EuroLNG"
+        },
+        {
+          "title": "Dutch TTF, storico prezzi",
+          "href": "https://it.investing.com/commodities/dutch-ttf-gas-c1-futures-historical-data",
           "site": "Investing.com"
         }
       ]
@@ -492,62 +515,19 @@
       "sectors": [
         "energia"
       ],
-      "title": "PUN Italia a 215,13 €/MWh per domenica (+9,6%)",
-      "summary": "Il PUN di domenica 22 novembre è 215,13 €/MWh, in rialzo del 9,61% dai 196,26 €/MWh di sabato (dati GME). PSV a 0,91673 €/Smc (−1,09%).",
-      "why": "Il prezzo elettrico italiano risale con il gas: conta per i ricavi degli impianti rinnovabili merchant e per i costi energetici dei datacenter.",
+      "title": "PUN in salita: 225,83 €/MWh oggi",
+      "summary": "Il PUN Index GME per lunedì 23 novembre è 225,83 €/MWh, contro 215,13 di domenica e 196,26 di sabato (+5,0% sul giorno prima).",
+      "why": "Il prezzo elettrico italiano risale con gas e domanda invernale: conta per i ricavi delle rinnovabili merchant e per i costi dei clienti energivori. I prezzi zonali Sud/Puglia non sono stati verificati.",
       "sources": [
         {
-          "title": "PUN e PSV oggi",
+          "title": "PUN oggi 23 novembre 2026",
           "href": "https://www.a4energie.it/pun-luce-e-psv-gas-prezzi-allingrosso-aggiornati/",
-          "site": "A4Energie (dati GME)"
+          "site": "A4Energie"
         },
         {
-          "title": "Esiti MGP, PUN",
+          "title": "PUN Index GME",
           "href": "https://gme.mercatoelettrico.org/it-IT/Home/Esiti/Elettricita/MGP/Esiti/PUN",
           "site": "GME"
-        }
-      ]
-    },
-    {
-      "id": "spain-dc",
-      "sectors": [
-        "energia",
-        "tech"
-      ],
-      "title": "Spagna: datacenter obbligati all'80% di rinnovabili",
-      "summary": "Il Real Decreto 1032/2026 del 20 novembre impone ai datacenter con almeno 10 MW di capacità di accesso alla rete requisiti di sostenibilità, tra cui l'80% di elettricità da nuove fonti rinnovabili.",
-      "why": "È un precedente regolatorio UE per chi sviluppa datacenter: lega l'accesso alla rete a nuova capacità rinnovabile, tema aperto anche in Italia con la strategia nazionale in preparazione e i 69 GW di richieste a Terna.",
-      "sources": [
-        {
-          "title": "Spain approves data center rules",
-          "href": "https://www.pv-magazine.com/2026/11/21/spain-approves-new-data-center-rules-requiring-80-renewable-electricity/",
-          "site": "pv magazine"
-        },
-        {
-          "title": "Real Decreto 1032/2026",
-          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24439",
-          "site": "BOE"
-        },
-        {
-          "title": "Terna, regole data center",
-          "href": "https://rinnovabili-italia.it/terna-data-center-regole-connessione-69-gw-2-11-2026/",
-          "site": "Rinnovabili Italia"
-        }
-      ]
-    },
-    {
-      "id": "eu-grids",
-      "sectors": [
-        "energia"
-      ],
-      "title": "UE: accordo sul pacchetto reti, permessi più rapidi",
-      "summary": "Consiglio e Parlamento UE hanno raggiunto il 18 novembre un accordo provvisorio per accelerare i permessi per rinnovabili, reti, accumuli e ricarica, con scadenza di norma di tre mesi (fino a sei) per le connessioni alla rete. Serve ancora l'approvazione formale; 18 mesi per il recepimento.",
-      "why": "Riduce i tempi autorizzativi per impianti e connessioni: rilevante per una DevCo di rinnovabili e datacenter.",
-      "sources": [
-        {
-          "title": "Grids package, comunicato",
-          "href": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition/",
-          "site": "Consiglio UE"
         }
       ]
     },
@@ -556,162 +536,151 @@
       "sectors": [
         "crypto"
       ],
-      "title": "Bitcoin rimbalza sopra 60.000 $ dopo la capitolazione",
-      "summary": "Sabato BTC è sceso fino a 55.130 $, minimo da settembre 2024, poi è risalito di oltre il 9% sopra i 60.000 $; le liquidazioni sulle 24 ore sono state circa 1,8 miliardi $, 1,3 dei quali su posizioni long (CoinGlass via CoinDesk). Alle 08:22 ora Italia quota 59.032 $.",
-      "why": "Glassnode nota che è stato spazzato il principale cluster di leva long tra 59.000 e 62.000 $; la tenuta dipende dall'apertura del Nasdaq lunedì.",
+      "title": "Bitcoin torna sopra 61.000 $",
+      "summary": "Alle 08:17 ora italiana BTC quotava 61.445 $ (+4,47%) ed ETH 1.724 $ (+6,47%) (Exa Markets). Sabato BTC era sceso sotto 55.500 $, il minimo da due anni (CoinDesk).",
+      "why": "Il rimbalzo segue quello dei future azionari: le crypto si muovono ancora come asset ad alto beta legato al tech e restano fragili se Wall Street torna a scendere.",
       "sources": [
         {
-          "title": "Bitcoin rebounds above $60,000",
-          "href": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+          "title": "Market rout kills 50 bps hike bets",
+          "href": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
           "site": "CoinDesk"
         },
         {
-          "title": "BTC live",
+          "title": "BTC, prezzo live",
           "href": "https://exa.ai/library/markets/crypto/BTC",
           "site": "Exa Markets"
         }
       ]
     },
     {
-      "id": "eth",
+      "id": "etf",
       "sectors": [
         "crypto"
       ],
-      "title": "Ether a 1.660 $, Solana sotto 70 $",
-      "summary": "ETH quota 1.660,72 $ (+2,56% da mezzanotte UTC); sabato CoinDesk lo indicava a circa 1.680 $ e SOL a circa 71 $.",
-      "why": "Le alt seguono BTC con beta più alto: senza stabilizzazione del tech la pressione resta.",
+      "title": "ETF bitcoin: −1,79 miliardi $ in una settimana",
+      "summary": "Gli ETF spot su bitcoin USA hanno perso 1,79 miliardi $ netti tra il 16 e il 20 novembre, il terzo deflusso settimanale più ampio di sempre: IBIT −1,368 miliardi, FBTC −199 milioni, in controtendenza MSBT di Morgan Stanley (+53,38 milioni).",
+      "why": "I deflussi istituzionali, che alcuni analisti definiscono ormai strutturali, tolgono il principale sostegno della domanda di BTC.",
       "sources": [
         {
-          "title": "ETH live",
-          "href": "https://exa.ai/library/markets/crypto/ETH",
-          "site": "Exa Markets"
+          "title": "Spot bitcoin ETFs shed $1.8 billion in past week",
+          "href": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+          "site": "The Block"
         },
         {
-          "title": "Bitcoin rebounds above $60,000",
-          "href": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+          "title": "US spot-bitcoin ETFs see $1.79 billion weekly outflow",
+          "href": "https://en.bloomingbit.io/feed/news/125009",
+          "site": "Bloomingbit"
+        }
+      ]
+    },
+    {
+      "id": "kraken",
+      "sectors": [
+        "crypto"
+      ],
+      "title": "Kraken: BTC scambiato a 17.000 $, gli scambi restano validi",
+      "summary": "Un cedimento del book in dollari canadesi di Kraken ha fatto passare di mano BTC a circa 24.250 CAD (circa 17.000 $), con cali oltre il 70% anche su XRP; gli scambi non sono stati annullati.",
+      "why": "Mostra quanto la liquidità sia sottile su alcuni mercati in fase di stress: rischio operativo da tenere presente per ordini stop e a mercato.",
+      "sources": [
+        {
+          "title": "Bitcoin sold for $17,000 on Kraken's CAD market",
+          "href": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
           "site": "CoinDesk"
         }
       ]
     },
     {
-      "id": "etf-flows",
+      "id": "strategy",
       "sectors": [
         "crypto"
       ],
-      "title": "ETF bitcoin: record di deflussi per IBIT",
-      "summary": "Giovedì 19 IBIT di BlackRock ha registrato −541 mln $, il peggior giorno dal lancio, con −582,3 mln $ per tutti gli ETF spot USA; venerdì −124,5 mln $ senza il dato IBIT. A novembre i deflussi sono circa 3,47 mld $ (SoSoValue).",
-      "why": "I flussi istituzionali restano negativi: è la condizione che gli analisti indicano come necessaria per un recupero duraturo.",
+      "title": "Strategy: Saylor lascia intendere nuovi acquisti",
+      "summary": "Domenica Saylor ha pubblicato \"The dots aren't done\", il segnale che di solito precede l'annuncio di acquisti il lunedì. L'ultimo acquisto confermato è di 485 BTC per 33,4 milioni $ (9-15 novembre), per un totale di 850.849 BTC.",
+      "why": "Strategy è uno dei pochi grandi compratori rimasti: un nuovo acquisto sosterrebbe il sentiment, ma con BTC sotto il suo prezzo medio di carico (75.452 $) la società è in perdita sulla posizione.",
       "sources": [
         {
-          "title": "IBIT record outflow",
-          "href": "https://ct.com/markets/blackrock-ibit-record-single-day-outflow",
-          "site": "Cointelegraph"
+          "title": "Strategy acquires 485 BTC",
+          "href": "https://www.strategy.com/press/strategy-acquires-485-btc-and-repurchases-228-million-of-strc_11-16-2026",
+          "site": "Strategy"
         },
         {
-          "title": "Bitcoin ETF flow",
-          "href": "https://farside.co.uk/btc/",
-          "site": "Farside Investors"
-        }
-      ]
-    },
-    {
-      "id": "cftc",
-      "sectors": [
-        "crypto"
-      ],
-      "title": "CFTC: nessuna esenzione per il trading onchain",
-      "summary": "La CFTC ha chiarito che gli exchange onchain come Hyperliquid devono ottenere l'autorizzazione ordinaria da mercato di derivati o appoggiarsi a un soggetto autorizzato. Con il CLARITY Act fermo al Congresso, le regole crypto passano da SEC e CFTC.",
-      "why": "Pressione regolatoria sui DEX di derivati; conta per i token DeFi più esposti.",
-      "sources": [
-        {
-          "title": "CFTC tells Hyperliquid: no special rules",
-          "href": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-          "site": "CoinDesk"
+          "title": "'The dots aren't done'",
+          "href": "https://news.bitcoin.com/featured/the-dots-arent-done-michael-saylor-hints-at-another-strategy-bitcoin-buy/",
+          "site": "Bitcoin.com"
         }
       ]
     }
   ],
   "rumors": [
     {
-      "title": "Convoglio iraniano in partenza",
-      "detail": "Fars (vicina ai Pasdaran) parla di 14 petroliere pronte; TankerTrackers.com ha definito \"wishful thinking\" l'ipotesi di un convoglio imminente. Nessuna partenza confermata.",
+      "title": "Nuovo acquisto di BTC da Strategy oggi",
+      "detail": "Il post di Saylor è solo un indizio: nessun 8-K o comunicato ancora pubblicato.",
       "sectors": [
-        "energia"
-      ]
-    },
-    {
-      "title": "Petroliera colpita da una mina",
-      "detail": "La versione della marina iraniana non è verificata in modo indipendente e non è chiaro se coincida con gli incidenti segnalati da UKMTO.",
-      "sectors": [
-        "energia"
-      ]
-    },
-    {
-      "title": "USA-Iran, raid su Qeshm",
-      "detail": "Su X circolano voci di attacchi missilistici USA vicino a Qeshm. Reuters, citata da Al Arabiya e Al-Monitor, attribuisce l'esplosione allo smaltimento controllato di munizioni inesplose: per ora la voce non è confermata.",
-      "sectors": [
-        "energia"
+        "crypto"
       ]
     },
     {
       "title": "Indagine SEC su Nvidia",
-      "detail": "Riportata dai media finanziari, ma non risulta un comunicato ufficiale di SEC o Nvidia.",
+      "detail": "Riportata dai media finanziari e rilanciata su X, ma non risulta un comunicato ufficiale di SEC o Nvidia.",
       "sectors": [
         "tech"
       ]
     },
     {
-      "title": "Probabilità di rialzo Fed a dicembre",
-      "detail": "Su siti e social circolano stime tra circa 90% e 97% per un rialzo di 25 pb; non verificate direttamente su CME FedWatch.",
+      "title": "900.000 chip AI approvati per aziende cinesi legate ai militari",
+      "detail": "Inchiesta attribuita al Financial Times e rilanciata su X: non verificata direttamente sulla fonte originale.",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "title": "Corea e Taiwan: fondo di stabilizzazione e stretta sulle vendite allo scoperto",
+      "detail": "Su X circolano notizie di un fondo da 10.000 miliardi di won pronto in Corea e di nuovi limiti allo short a Taiwan: non confermate da fonti ufficiali in questa rassegna.",
       "sectors": [
         "azionario"
       ]
     },
     {
-      "title": "Minatori bitcoin sotto i costi",
-      "detail": "Su X circola una stima di costo di produzione di 86.000 $ per BTC: dato non verificato da fonti primarie.",
+      "title": "Fusione Tesla-SpaceX",
+      "detail": "Su X si parla di comitati indipendenti per valutare la fusione: nessun comunicato ufficiale verificato.",
       "sectors": [
-        "crypto"
+        "tech"
       ]
     }
   ],
   "agenda": [
     {
-      "title": "Domenica 22 novembre — Borse chiuse, crypto aperte",
-      "detail": "Da monitorare: Hormuz e convoglio iraniano, tenuta di BTC sopra i 55.000-60.000 $, apertura dei future USA in serata."
-    },
-    {
       "title": "Lunedì 23 novembre — PMI flash di novembre",
-      "detail": "Eurozona alle 10:00 ora italiana, poi USA; Borsa di Tokyo chiusa per festività."
+      "detail": "Eurozona alle 10:00 ora italiana (consenso composito 51,5 da 51,7, secondo Veda), poi USA nel pomeriggio. Tokyo chiusa; a Milano stacco cedole."
     },
     {
-      "title": "Martedì 24 novembre — Conti Dell",
-      "detail": "Dopo la chiusura USA (call 22:30 ora italiana): test sugli ordini di server AI."
+      "title": "Martedì 24 novembre — Conti Dell e fiducia consumatori USA",
+      "detail": "Dell dopo la chiusura USA: test su domanda e prezzi dei server AI dopo i rincari."
     },
     {
-      "title": "Mercoledì 25 novembre — PCE, PIL e beni durevoli USA",
-      "detail": "Calendario compresso prima del Thanksgiving; attese di PCE core al 3,2% anno su anno (Reuters)."
+      "title": "Mercoledì 25 novembre — PCE, PIL e sussidi USA",
+      "detail": "Il dato d'inflazione preferito dalla Fed decide se il rialzo di dicembre resta da 25 pb o torna l'ipotesi di 50."
     },
     {
-      "title": "Giovedì 26 novembre — Thanksgiving e verbali BCE",
-      "detail": "Wall Street chiusa; venerdì seduta corta. Liquidità sottile. OPEC+ domenica 29, FOMC 8-9 dicembre."
+      "title": "Giovedì 26 novembre — Thanksgiving",
+      "detail": "Wall Street chiusa, venerdì seduta corta (chiusura alle 19:00 ora italiana). OPEC+ domenica 29, FOMC 8-9 dicembre."
     }
   ],
   "homeTiles": [
     {
       "screen": "azionario",
       "title": "Azionario",
-      "kpiLabel": "S&P 500"
+      "kpiLabel": "Future S&P 500"
     },
     {
       "screen": "tech",
       "title": "Tech",
-      "kpiLabel": "Nasdaq"
+      "kpiLabel": "Future Nasdaq 100"
     },
     {
       "screen": "energia",
       "title": "Energia",
-      "kpiLabel": "TTF"
+      "kpiLabel": "Brent"
     },
     {
       "screen": "crypto",
@@ -722,33 +691,34 @@
   "sectors": {
     "azionario": {
       "title": "Azionario",
-      "lead": "Ultime chiusure di venerdì 20 novembre; lunedì riapertura dopo la settimana del sell-off AI.",
+      "lead": "Future USA in rimbalzo dopo la settimana peggiore dal 2020 per il Nasdaq; ultime chiusure di venerdì 20/11, Asia di oggi.",
       "kpiLabels": [
+        "Future S&P 500",
+        "Future Nasdaq 100",
         "S&P 500",
         "Nasdaq",
         "Dow Jones",
         "FTSE MIB",
-        "Nikkei 225",
-        "Hang Seng"
+        "KOSPI"
       ],
       "charts": [
         {
-          "heading": "Variazioni degli indici",
-          "caption": "Variazione percentuale di chiusura, dal rialzo più contenuto al calo più ampio.",
+          "heading": "Future e Asia stamattina",
+          "caption": "Future alle 07:47 ora italiana (CNBC), KOSPI in chiusura (Yonhap).",
           "source": "indexMoves",
           "labels": [
-            "Hang Seng",
-            "Dow Jones",
-            "FTSE MIB",
-            "S&P 500",
-            "Nikkei",
-            "Nasdaq"
+            "Future Nasdaq 100",
+            "Future S&P 500",
+            "Future Dow",
+            "Future Stoxx 50",
+            "Future FTSE MIB",
+            "KOSPI"
           ],
           "emphasis": "none"
         },
         {
           "heading": "Titoli italiani più mossi",
-          "caption": "Chiusura di Piazza Affari. Fonte: ANSA e Teleborsa.",
+          "caption": "Chiusura di venerdì 20/11 a Piazza Affari. Fonte: ANSA e Teleborsa.",
           "source": "italianMovers",
           "emphasis": "none"
         }
@@ -756,27 +726,27 @@
     },
     "tech": {
       "title": "Tech",
-      "lead": "Nvidia −14% e Anthropic −8,5% venerdì; nel weekend la prova di Riemann con Claude verificata, martedì i conti Dell.",
+      "lead": "Rimbalzo atteso sul Nasdaq, ma Nvidia resta sotto pressione politica; domani i conti Dell.",
       "kpiLabels": [
-        "Nasdaq",
-        "Hang Seng Tech"
+        "Future Nasdaq 100",
+        "Nasdaq"
       ],
       "charts": [
         {
           "heading": "Variazioni tech",
-          "caption": "Chiusure del 20 novembre 2026: Nasdaq e Hang Seng Tech da Yahoo Finance e Xinhua, Nvidia da Motley Fool, Anthropic da Yahoo Finance.",
+          "caption": "Future Nasdaq 100 alle 07:47 (CNBC); Nasdaq, Anthropic e Nvidia: chiusure di venerdì 20/11 (Yahoo Finance, Motley Fool).",
           "source": "indexMoves",
           "labels": [
-            "Hang Seng Tech",
-            "Nasdaq",
-            "Anthropic",
-            "Nvidia"
+            "Future Nasdaq 100",
+            "Nasdaq (ven)",
+            "Anthropic (ven)",
+            "Nvidia (ven)"
           ],
           "emphasis": "none"
         },
         {
           "heading": "Chip a Piazza Affari",
-          "caption": "Chiusura. Fonte: ANSA.",
+          "caption": "Chiusura di venerdì 20/11. Fonte: ANSA.",
           "source": "italianMovers",
           "labels": [
             "Technoprobe",
@@ -788,7 +758,7 @@
     },
     "energia": {
       "title": "Energia",
-      "lead": "Petrolio e gas a venerdì, PUN di domenica e rischio Hormuz per l'apertura di lunedì.",
+      "lead": "Petrolio stabile con il rischio Golfo in aumento; TTF in rialzo all'apertura e PUN a 225,83 €/MWh.",
       "kpiLabels": [
         "Brent",
         "WTI",
@@ -797,10 +767,10 @@
       "charts": [
         {
           "heading": "Variazioni di petrolio e gas",
-          "caption": "Brent e WTI sono settlement ufficiali di venerdì; TTF chiusura del 20/11 da Investing.com.",
+          "caption": "Brent e WTI alle 05:23 ora italiana (Reuters); TTF chiusura di venerdì 20/11 (Investing.com).",
           "source": "indexMoves",
           "labels": [
-            "TTF",
+            "TTF (ven)",
             "WTI",
             "Brent"
           ],
@@ -808,15 +778,15 @@
         },
         {
           "heading": "PUN Italia, nazionale",
-          "caption": "€/MWh, 21 e 22 novembre 2026. Fonti: GME via A4Energie.",
+          "caption": "€/MWh, 21-23 novembre 2026. Fonti: GME via A4Energie.",
           "source": "punZones",
-          "emphasis": 1,
+          "emphasis": 2,
           "kind": "level",
-          "note": "Il PUN di domenica sale a 215,13 €/MWh (+9,6%). I prezzi zonali Sud/Puglia di oggi non sono stati verificati."
+          "note": "Il PUN di lunedì sale a 225,83 €/MWh (+5,0% su domenica). I prezzi zonali Sud/Puglia non sono stati verificati."
         },
         {
           "heading": "Titoli energetici e di rete",
-          "caption": "Chiusura di Piazza Affari. Fonte: ANSA e Teleborsa.",
+          "caption": "Chiusura di venerdì 20/11 a Piazza Affari. Fonte: ANSA e Teleborsa.",
           "source": "italianMovers",
           "labels": [
             "Saipem",
@@ -832,7 +802,7 @@
     },
     "crypto": {
       "title": "Crypto",
-      "lead": "Prezzi live alle 08:22 ora Italia; rimbalzo dopo il minimo di sabato e flussi ETF ancora negativi.",
+      "lead": "Prezzi live alle 08:17 ora italiana: rimbalzo dopo il minimo di sabato, ma deflussi ETF pesanti.",
       "kpiLabels": [
         "Bitcoin",
         "Ethereum"
@@ -840,7 +810,7 @@
       "charts": [
         {
           "heading": "Variazioni di giornata",
-          "caption": "Prezzi Exa Markets alle 08:22 ora Italia, variazione da mezzanotte UTC. Non sono chiusure ufficiali.",
+          "caption": "Exa Markets alle 08:17 ora italiana, variazione sulla chiusura precedente. Non sono chiusure ufficiali.",
           "source": "indexMoves",
           "labels": [
             "Bitcoin",
@@ -849,8 +819,8 @@
           "emphasis": "none"
         },
         {
-          "heading": "Flussi ETF bitcoin ed ether",
-          "caption": "Deflussi netti in milioni di dollari. Fonti: Farside Investors, The Block e Cointelegraph (IBIT 19/11).",
+          "heading": "Flussi ETF bitcoin, settimana 16-20/11",
+          "caption": "Flussi netti in milioni di dollari. Fonte: The Block e Bloomingbit.",
           "source": "etfFlows",
           "emphasis": "none"
         }
