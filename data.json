@@ -1,268 +1,258 @@
 {
-  "dateLabel": "mercoledì 25 novembre 2026",
-  "updatedAt": "08:26",
+  "dateLabel": "giovedì 26 novembre 2026",
+  "updatedAt": "08:23",
   "timezone": "Europa/Roma",
   "audience": "Nicola Fuzio",
-  "pageTitle": "Report mercati — 25 novembre 2026",
+  "pageTitle": "Report mercati — 26 novembre 2026",
   "headlines": [
-    "L'effetto Huang svanisce: Nvidia −5,9%, Nasdaq −1,48% e S&P 500 −0,50% (ottava perdita in nove sedute); stanotte vendite sui chip asiatici: KOSPI −6,16%, Taiex −4,80%, Nikkei −2,78%.",
-    "Dell batte le stime (ricavi 54,94 mld $, server AI 22 mld $) ma non ferma il sell-off: future Nasdaq 100 −1,48% (CNBC, 06:54); alle 14:30 PCE e PIL USA, con la Fed prezzata al 95,9% per un rialzo a dicembre.",
-    "Milano −1,84% con STM −10,21% e Prysmian −8,04%; energia in tensione: TTF 91,39 €/MWh (+3,32%), PUN di oggi 258,16 €/MWh, Brent a 90,97 $ dopo il +2% di martedì."
+    "Rimbalzo intraday a Wall Street: S&P 500 da −3,2% a −0,25% (7.182,78), Dow +0,33% dopo un −1.100 punti; pesano PCE core al 3,3% (atteso 3,2%) e Fed prezzata al 97,8% per un rialzo a dicembre. Oggi USA chiusi per Thanksgiving.",
+    "Dazi USA Section 301 su 14 economie (UE 15%, Cina 20%), in vigore non prima di mesi: Milano −1,81% con banche e Prysmian giù, ma stamattina i future Euro Stoxx 50 segnano +2,2% e l'Asia rimbalza sui chip.",
+    "Energia a due velocità: Brent a 94,71 $ (+3,5% mercoledì) su attacchi Houthi alla raffineria saudita di Ras Tanura e mine a Hormuz; TTF in calo sotto 88 €/MWh, ma il PUN di oggi sale a 277,41 €/MWh (+7,46%)."
   ],
   "kpis": [
     {
-      "label": "Future S&P 500",
-      "value": "−0,87%",
-      "changePct": -0.87,
-      "changeLabel": "−0,87%",
-      "detail": "06:54 Europa/Roma, CNBC"
-    },
-    {
-      "label": "Future Nasdaq 100",
-      "value": "−1,48%",
-      "changePct": -1.48,
-      "changeLabel": "−1,48%",
-      "detail": "06:54 Europa/Roma, CNBC"
-    },
-    {
       "label": "S&P 500",
-      "value": "7.201,09",
-      "changePct": -0.5,
-      "changeLabel": "−0,50%",
-      "detail": "Chiusura mar 24/11, AP"
+      "value": "7.182,78",
+      "changePct": -0.25,
+      "changeLabel": "−0,25%",
+      "detail": "Chiusura mer 25/11, CNBC"
     },
     {
       "label": "Nasdaq",
-      "value": "23.733,54",
-      "changePct": -1.48,
-      "changeLabel": "−1,48%",
-      "detail": "Chiusura mar 24/11, AP"
+      "value": "23.585,80",
+      "changePct": -0.62,
+      "changeLabel": "−0,62%",
+      "detail": "Chiusura mer 25/11, CNBC"
     },
     {
       "label": "Dow Jones",
-      "value": "50.018,70",
-      "changePct": 0.85,
-      "changeLabel": "+0,85%",
-      "detail": "Chiusura mar 24/11, AP"
+      "value": "50.182,95",
+      "changePct": 0.33,
+      "changeLabel": "+0,33%",
+      "detail": "Chiusura mer 25/11, CNBC"
     },
     {
       "label": "FTSE MIB",
-      "value": "48.121,19",
-      "changePct": -1.84,
-      "changeLabel": "−1,84%",
-      "detail": "Chiusura mar 24/11, Borsa Italiana"
+      "value": "47.249,15",
+      "changePct": -1.81,
+      "changeLabel": "−1,81%",
+      "detail": "Chiusura mer 25/11, Borsa Italiana"
+    },
+    {
+      "label": "DAX",
+      "value": "24.702,13",
+      "changePct": -1.26,
+      "changeLabel": "−1,26%",
+      "detail": "Chiusura mer 25/11, Money.it"
+    },
+    {
+      "label": "Euro Stoxx 50",
+      "value": "5.894,46",
+      "changePct": -1.82,
+      "changeLabel": "−1,82%",
+      "detail": "Chiusura mer 25/11, Ad-hoc-news"
+    },
+    {
+      "label": "Future Euro Stoxx 50",
+      "value": "+2,2%",
+      "changePct": 2.2,
+      "changeLabel": "+2,2%",
+      "detail": "07:10 Europa/Roma, Newsquawk"
     },
     {
       "label": "Nikkei 225",
-      "value": "57.011,62",
-      "changePct": -2.78,
-      "changeLabel": "−2,78%",
-      "detail": "Chiusura 25/11, Nikkei"
+      "value": "57.499,16",
+      "changePct": 0.86,
+      "changeLabel": "+0,86%",
+      "detail": "Chiusura 26/11, Nikkei Indexes"
     },
     {
       "label": "KOSPI",
-      "value": "4.697,51",
-      "changePct": -6.16,
-      "changeLabel": "−6,16%",
-      "detail": "Chiusura 25/11, Yonhap"
-    },
-    {
-      "label": "Taiex",
-      "value": "38.195,43",
-      "changePct": -4.8,
-      "changeLabel": "−4,80%",
-      "detail": "Chiusura 25/11, Economic Daily News"
+      "value": "4.711,21",
+      "changePct": 0.29,
+      "changeLabel": "+0,29%",
+      "detail": "Chiusura 26/11, Yonhap"
     },
     {
       "label": "Brent",
-      "value": "90,97 $",
-      "changePct": -0.5,
-      "changeLabel": "−0,5%",
-      "detail": "02:37 Europa/Roma, Reuters via CNBC (XTB indica 87,80 $: dato da verificare)"
+      "value": "94,71 $",
+      "changePct": 0.1,
+      "changeLabel": "+0,1%",
+      "detail": "02:37 Europa/Roma, Reuters via CNBC (mercoledì +3,5%)"
     },
     {
       "label": "WTI",
-      "value": "81,58 $",
-      "changePct": -0.6,
-      "changeLabel": "−0,6%",
+      "value": "84,03 $",
+      "changePct": 0.4,
+      "changeLabel": "+0,4%",
       "detail": "02:37 Europa/Roma, Reuters via CNBC"
     },
     {
       "label": "TTF",
-      "value": "91,39 €/MWh",
-      "changePct": 3.32,
-      "changeLabel": "+3,32%",
-      "detail": "Chiusura mar 24/11, GasRadar"
+      "value": "87,96 €/MWh",
+      "changePct": -4.05,
+      "changeLabel": "−4,05%",
+      "detail": "13:35 mer 25/11, ANSA (dato infragiornaliero)"
     },
     {
       "label": "PUN",
-      "value": "258,16 €/MWh",
-      "changePct": 3.38,
-      "changeLabel": "+3,38%",
-      "detail": "Consegna 25/11, GME via EnergyManagement; variazione su 249,72 del 24/11"
+      "value": "277,41 €/MWh",
+      "changePct": 7.46,
+      "changeLabel": "+7,46%",
+      "detail": "Giovedì 26/11, GME via A4Energie"
     },
     {
       "label": "Bitcoin",
-      "value": "59.104,93 $",
-      "changePct": -2.22,
-      "changeLabel": "−2,22%",
-      "detail": "06:50 Europa/Roma, crypto.news (24 ore)"
+      "value": "60.397,8 $",
+      "changePct": 2,
+      "changeLabel": "+2,0%",
+      "detail": "07:18 Europa/Roma, Investing.com"
     },
     {
       "label": "Ethereum",
-      "value": "≈1.655 $",
-      "changePct": 0,
-      "changeLabel": "var. n.d.",
-      "detail": "Mattina 25/11, Yahoo Finance/ChainRegistry; variazione non verificata"
+      "value": "1.688,78 $",
+      "changePct": 1.7,
+      "changeLabel": "+1,7%",
+      "detail": "07:18 Europa/Roma, Investing.com"
     }
   ],
   "indexMoves": [
     {
-      "label": "KOSPI",
-      "value": -6.16,
-      "display": "−6,16%"
-    },
-    {
-      "label": "Taiex",
-      "value": -4.8,
-      "display": "−4,80%"
+      "label": "Future Euro Stoxx 50",
+      "value": 2.2,
+      "display": "+2,2%"
     },
     {
       "label": "Nikkei 225",
-      "value": -2.78,
-      "display": "−2,78%"
+      "value": 0.86,
+      "display": "+0,86%"
     },
     {
-      "label": "FTSE MIB (mar)",
-      "value": -1.84,
-      "display": "−1,84%"
+      "label": "Dow Jones (mer)",
+      "value": 0.33,
+      "display": "+0,33%"
     },
     {
-      "label": "Nasdaq (mar)",
-      "value": -1.48,
-      "display": "−1,48%"
+      "label": "KOSPI",
+      "value": 0.29,
+      "display": "+0,29%"
     },
     {
-      "label": "Future Nasdaq 100",
-      "value": -1.48,
-      "display": "−1,48%"
+      "label": "S&P 500 (mer)",
+      "value": -0.25,
+      "display": "−0,25%"
     },
     {
-      "label": "Future S&P 500",
-      "value": -0.87,
-      "display": "−0,87%"
+      "label": "Nasdaq (mer)",
+      "value": -0.62,
+      "display": "−0,62%"
     },
     {
-      "label": "S&P 500 (mar)",
-      "value": -0.5,
-      "display": "−0,50%"
+      "label": "DAX (mer)",
+      "value": -1.26,
+      "display": "−1,26%"
     },
     {
-      "label": "Dow Jones (mar)",
-      "value": 0.85,
-      "display": "+0,85%"
+      "label": "FTSE MIB (mer)",
+      "value": -1.81,
+      "display": "−1,81%"
     },
     {
-      "label": "Ambarella (after-hours)",
-      "value": -37,
-      "display": "−37%"
+      "label": "HP Inc. (mer)",
+      "value": 11.4,
+      "display": "+11,4%"
     },
     {
-      "label": "Dell (mar)",
-      "value": -11.83,
-      "display": "−11,83%"
+      "label": "Nvidia (mer)",
+      "value": -3.91,
+      "display": "−3,91%"
     },
     {
-      "label": "SK hynix",
-      "value": -11.05,
-      "display": "−11,05%"
-    },
-    {
-      "label": "Samsung Electronics",
-      "value": -9.87,
-      "display": "−9,87%"
-    },
-    {
-      "label": "Anthropic (mar)",
-      "value": -6.5,
-      "display": "−6,5%"
-    },
-    {
-      "label": "Nvidia (mar)",
-      "value": -5.9,
-      "display": "−5,9%"
-    },
-    {
-      "label": "TTF (mar)",
-      "value": 3.32,
-      "display": "+3,32%"
-    },
-    {
-      "label": "WTI",
-      "value": -0.6,
-      "display": "−0,6%"
+      "label": "Sandisk (mer)",
+      "value": -5.57,
+      "display": "−5,57%"
     },
     {
       "label": "Brent",
-      "value": -0.5,
-      "display": "−0,5%"
+      "value": 0.1,
+      "display": "+0,1%"
+    },
+    {
+      "label": "WTI",
+      "value": 0.4,
+      "display": "+0,4%"
+    },
+    {
+      "label": "TTF (mer, 13:35)",
+      "value": -4.05,
+      "display": "−4,05%"
     },
     {
       "label": "Bitcoin",
-      "value": -2.22,
-      "display": "−2,22%"
+      "value": 2,
+      "display": "+2,0%"
+    },
+    {
+      "label": "Ethereum",
+      "value": 1.7,
+      "display": "+1,7%"
     }
   ],
   "italianMovers": [
     {
-      "label": "Inwit",
-      "value": 1.45,
-      "display": "+1,45%"
-    },
-    {
-      "label": "Leonardo",
-      "value": 1.43,
-      "display": "+1,43%"
-    },
-    {
       "label": "Stellantis",
-      "value": -3.07,
-      "display": "−3,07%"
+      "value": 3.58,
+      "display": "+3,58%"
     },
     {
-      "label": "Prysmian",
-      "value": -8.04,
-      "display": "−8,04%"
+      "label": "Buzzi",
+      "value": 1.46,
+      "display": "+1,46%"
+    },
+    {
+      "label": "Ferrari",
+      "value": 1.25,
+      "display": "+1,25%"
+    },
+    {
+      "label": "Snam",
+      "value": 1.04,
+      "display": "+1,04%"
+    },
+    {
+      "label": "BPER Banca",
+      "value": -3.99,
+      "display": "−3,99%"
     },
     {
       "label": "STMicroelectronics",
-      "value": -10.21,
-      "display": "−10,21%"
+      "value": -4.81,
+      "display": "−4,81%"
+    },
+    {
+      "label": "Prysmian",
+      "value": -5.4,
+      "display": "−5,40%"
     }
   ],
   "etfFlows": [
-    {
-      "label": "ETF BTC USA, 24/11",
-      "value": -231.56,
-      "display": "−231,6 mln $"
-    },
     {
       "label": "ETF BTC USA, 23/11",
       "value": -569.74,
       "display": "−569,7 mln $"
     },
     {
-      "label": "ETF BTC USA, 23-24/11",
-      "value": -801.3,
-      "display": "−801,3 mln $"
+      "label": "ETF BTC USA, 24/11",
+      "value": -231.56,
+      "display": "−231,6 mln $"
+    },
+    {
+      "label": "ETF BTC USA, 25/11",
+      "value": -453,
+      "display": "−453,0 mln $"
     }
   ],
   "punZones": [
-    {
-      "label": "PUN 23/11",
-      "value": 225.83,
-      "display": "225,83 €/MWh"
-    },
     {
       "label": "PUN 24/11",
       "value": 249.72,
@@ -272,6 +262,11 @@
       "label": "PUN 25/11",
       "value": 258.16,
       "display": "258,16 €/MWh"
+    },
+    {
+      "label": "PUN 26/11",
+      "value": 277.41,
+      "display": "277,41 €/MWh"
     }
   ],
   "news": [
@@ -280,24 +275,97 @@
       "sectors": [
         "azionario"
       ],
-      "title": "Wall Street: il rally Nvidia si sgonfia, il Dow regge",
-      "summary": "Martedì S&P 500 −0,50% a 7.201,09 (ottava perdita in nove sedute) e Nasdaq −1,48% a 23.733,54; il Dow, meno esposto al tech, +423,39 punti (+0,85%) a 50.018,70.",
-      "why": "La rotazione da AI a titoli value segnala che il rimbalzo di lunedì non ha convinto: stamattina i future indicano una seconda seduta negativa per il tech (S&P −0,87%, Nasdaq 100 −1,48% alle 06:54).",
+      "title": "Wall Street recupera quasi tutto: il Dow cancella un −1.100 punti",
+      "summary": "Mercoledì S&P 500 −0,25% a 7.182,78 (minimo intraday −3,2%), Nasdaq −0,62% a 23.585,80, Dow +0,33% a 50.182,95. Vendite concentrate su chip e AI, acquisti su materiali e titoli value.",
+      "why": "Il recupero in una seduta sottile pre-festiva non chiude la correzione AI: oggi Wall Street è chiusa e venerdì la seduta è corta, quindi liquidità ridotta e movimenti amplificati.",
       "sources": [
         {
-          "title": "How major US stock indexes fared Tuesday 11/24/2026",
-          "href": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-6cc4e580290aadf304ee316d6d46dd81",
-          "site": "AP"
-        },
-        {
-          "title": "Nasdaq, S&P 500 close lower, giving up some Nvidia-fueled gains",
-          "href": "https://www.nbcnews.com/business/markets/stocks-lower-after-nvidia-fueled-gains-rcna611211",
-          "site": "NBC News"
-        },
-        {
-          "title": "Stock futures slip as traders await key inflation report",
+          "title": "Dow closes higher Wednesday, wiping out 1,100-point loss",
           "href": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
           "site": "CNBC"
+        },
+        {
+          "title": "How major US stock indexes fared Wednesday 11/25/2026",
+          "href": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09",
+          "site": "AP"
+        }
+      ]
+    },
+    {
+      "id": "fed",
+      "sectors": [
+        "azionario"
+      ],
+      "title": "PCE core al 3,3% e PIL forte: la Fed verso il rialzo",
+      "summary": "PCE di ottobre +3,8% annuo (settembre 3,7%), core +3,3% contro 3,2% atteso; PIL Q3 rivisto a +4,3% annualizzato. CME FedWatch al 97,8% per +25 pb a dicembre.",
+      "why": "Un rialzo dei tassi USA quasi certo pesa su titoli growth, crypto e costo del capitale per progetti infrastrutturali ed energetici.",
+      "sources": [
+        {
+          "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+          "href": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+          "site": "CNBC"
+        },
+        {
+          "title": "Dow closes higher Wednesday, wiping out 1,100-point loss",
+          "href": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+          "site": "CNBC"
+        },
+        {
+          "title": "CME FedWatch: 97,8% di probabilità di rialzo a dicembre dopo il PCE",
+          "href": "https://phemex.com/news/article/cme-fedwatch-shows-978-probability-of-25-basis-point-fed-rate-hike-in-december-104803",
+          "site": "Phemex News"
+        }
+      ]
+    },
+    {
+      "id": "dazi",
+      "sectors": [
+        "azionario"
+      ],
+      "title": "USA: nuovi dazi Section 301 su 14 economie, UE inclusa",
+      "summary": "L'USTR propone dazi mirati su Cina, UE, Giappone, India e altri: aliquote per lo più 15-20% (UE 15%, Cina 20%), secondo Greer in gran parte 'top up' non cumulativi e operativi non prima di mesi, dopo consultazione pubblica.",
+      "why": "Rischio diretto per l'export europeo e italiano; il fatto che i tempi siano lunghi spiega il rimbalzo dei future europei stamattina.",
+      "sources": [
+        {
+          "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+          "href": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+          "site": "CNBC"
+        },
+        {
+          "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations",
+          "href": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+          "site": "USTR"
+        }
+      ]
+    },
+    {
+      "id": "milano",
+      "sectors": [
+        "azionario"
+      ],
+      "title": "Milano −1,81%: banche e Prysmian in fondo, oggi attesa in rialzo",
+      "summary": "FTSE MIB a 47.249,15 (−5,83% in una settimana). Prysmian −5,40%, STM −4,81%, BPER −3,99%, Intesa −3,34%; Stellantis +3,58%. Euro Stoxx 50 −1,82%, DAX −1,26%; future Euro Stoxx 50 +2,2% alle 07:10.",
+      "why": "Il calo di Prysmian (cavi per reti e datacenter) riflette i dubbi sul ciclo capex AI; i future indicano un'apertura di recupero.",
+      "sources": [
+        {
+          "title": "Piazza Affari chiude in calo, FTSE MIB a −1,81%",
+          "href": "https://www.money.it/piazza-affari-chiude-in-calo-ftse-mib-25-11-2026",
+          "site": "Money.it"
+        },
+        {
+          "title": "Borsa: Milano chiude in deciso calo, −1,81%",
+          "href": "https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-milano-chiude-in-deciso-calo-181_172e6c6b-d0e6-4a80-bdcf-1daa258eaffd.html",
+          "site": "ANSA"
+        },
+        {
+          "title": "Euro Stoxx 50 Closes 1.82% Lower at 5,894.46 as AI Fears Return",
+          "href": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-1-82-prozent-lower-at-5-894-46-as-ai-fears-return/70555310",
+          "site": "Ad-hoc-news"
+        },
+        {
+          "title": "Newsquawk Daily European Opening News — 26 novembre 2026",
+          "href": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---26th-november-2026",
+          "site": "Newsquawk"
         }
       ]
     },
@@ -307,153 +375,87 @@
         "azionario",
         "tech"
       ],
-      "title": "Asia dei chip in caduta: KOSPI −6,16%",
-      "summary": "Seul chiude a 4.697,51 con Samsung Electronics −9,87% e SK hynix −11,05% e vendite estere per circa 1.900 mld di won; Taiex −4,80% a 38.195,43, Nikkei −2,78% a 57.011,62.",
-      "why": "I mercati più esposti a semiconduttori e AI scontano i dubbi sulla redditività degli investimenti AI: pressione attesa sui chip europei (STM) anche oggi.",
+      "title": "Asia in rialzo con i chip; Bank of Korea alza i tassi",
+      "summary": "Nikkei +0,86% a 57.499,16, KOSPI +0,29% a 4.711,21. La Bank of Korea porta il tasso al 3,25% (+25 pb, massimo di 2 anni). Rimbalzo dei chip giapponesi: SoftBank oltre +11%, Advantest +7,3% in seduta.",
+      "why": "Anche fuori dagli USA le banche centrali restano restrittive; il rimbalzo dei chip asiatici è il primo segnale di stabilizzazione dopo il crollo di mercoledì.",
       "sources": [
         {
-          "title": "Seoul shares retreat over 6 pct on revived AI uncertainties",
-          "href": "https://en.yna.co.kr/view/AEN20261125006251320",
+          "title": "Historical Data (Nikkei 225)",
+          "href": "https://indexes.nikkei.co.jp/en/nkave/archives/data?list=daily&month=11&year=2026",
+          "site": "Nikkei Indexes"
+        },
+        {
+          "title": "KOSPI 4,711.21 UP 13.70 points (close)",
+          "href": "https://en.yna.co.kr/view/AEN20261126008400320",
           "site": "Yonhap"
         },
         {
-          "title": "台股收盤／大跌1,926.92點收38,195.43點",
-          "href": "https://money.udn.com/money/story/12509/9901120",
-          "site": "Economic Daily News"
-        },
-        {
-          "title": "日経平均大引け　反落　1633円安の5万7011円",
-          "href": "https://www.nikkei.com/article/DGXZQOFL250G70V21C26A1000000/",
-          "site": "Nikkei"
-        }
-      ]
-    },
-    {
-      "id": "milano",
-      "sectors": [
-        "azionario"
-      ],
-      "title": "Piazza Affari −1,84%: affondano STM e Prysmian",
-      "summary": "FTSE MIB a 48.121,19: STMicroelectronics −10,21%, Prysmian −8,04%, Stellantis −3,07%; in rialzo Inwit (+1,45%) e Leonardo (+1,43%). Solo 9 titoli positivi su 40; −5,36% in una settimana.",
-      "why": "Prysmian è un termometro della filiera reti e datacenter: il suo calo riflette la fuga dal tema AI/infrastrutture, rilevante per chi sviluppa progetti datacenter.",
-      "sources": [
-        {
-          "title": "Piazza Affari chiude in calo, FTSE MIB a -1,84%",
-          "href": "https://www.money.it/piazza-affari-chiude-in-calo-ftse-mib-24-11-2026",
-          "site": "Money.it"
-        },
-        {
-          "title": "Milan FTSE MIB closes down 1.84% at 48,121.19 points",
-          "href": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economy/dettaglio/milan-ftse-mib-closes-down-184-at-4812119-points-nRC_24112026_1740_570207319.html?lang=en",
-          "site": "Borsa Italiana"
-        }
-      ]
-    },
-    {
-      "id": "fed",
-      "sectors": [
-        "azionario",
-        "crypto"
-      ],
-      "title": "Oggi PCE e PIL USA, Fed verso il rialzo",
-      "summary": "Alle 14:30 ora italiana escono PCE di ottobre, seconda stima del PIL del terzo trimestre e sussidi settimanali (anticipati per il Thanksgiving). CME FedWatch: 95,9% di probabilità di un rialzo di 25 pb all'FOMC dell'8-9 dicembre.",
-      "why": "Un PCE sopra le attese rafforzerebbe il rialzo dei tassi; intanto Treasury a 10 anni al 4,89% (−4 pb) e dollaro forte (DXY 106) segnalano fuga verso asset rifugio (XTB).",
-      "sources": [
-        {
-          "title": "Release Schedule",
-          "href": "https://www.bea.gov/news/schedule",
-          "site": "BEA"
-        },
-        {
-          "title": "CME FedWatch: 95,9% di probabilità di rialzo di 25 pb a dicembre",
-          "href": "https://www.cnfin.com/kx/detail/20261124/4499322_1.html",
-          "site": "CNFIN"
-        },
-        {
-          "title": "Morning Wrap 25.11.2026",
-          "href": "https://www.xtb.com/int/market-analysis/news-and-research/morning-wrap-wall-street-loses-momentum-tech-sell-off-to-continue-25-11-2026",
-          "site": "XTB"
+          "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+          "href": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+          "site": "CNBC"
         }
       ]
     },
     {
       "id": "nvidia",
       "sectors": [
-        "tech",
-        "azionario"
+        "tech"
       ],
-      "title": "Nvidia −5,9% dopo il +31,5% del ritorno di Huang",
-      "summary": "Il titolo restituisce parte del balzo di lunedì mentre gli investitori valutano governance, indagini sul reintegro di Huang, ritorni della spesa AI e restrizioni all'export di chip.",
-      "why": "Nvidia guida l'intero trade AI: la volatilità sul titolo si trasmette a chip asiatici, server e infrastrutture energetiche legate ai datacenter.",
+      "title": "Nvidia −3,9%: svanisce l'effetto ritorno di Huang",
+      "summary": "Nvidia chiude a 149,30 $ (−3,91%); Oracle oltre −5%, Micron −4%, CoreWeave e Nebius in calo. Anthropic invece +4%, dopo essere scesa sotto il prezzo IPO.",
+      "why": "Il mercato continua a dubitare della redditività degli investimenti AI: pressione su tutta la filiera datacenter (chip, cloud, memorie).",
       "sources": [
         {
-          "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
-          "href": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+          "title": "Tech stocks sink but close well off the lows, Anthropic struggles to rebound above IPO price",
+          "href": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
           "site": "CNBC"
         },
         {
-          "title": "Nvidia's Huang said he violated code of conduct, source says",
-          "href": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-          "site": "Reuters via Investing.com"
+          "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9%",
+          "href": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/",
+          "site": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "dell",
-      "sectors": [
-        "tech",
-        "energia"
-      ],
-      "title": "Dell: trimestre record con i server AI",
-      "summary": "Q3 fiscale 2027: ricavi 54,94 mld $ (attesi 49,32), EPS rettificato 9,45 $ (attesi 6,59); server AI 22 mld $ (+291% annuo). Guida Q4 a circa 56,3 mld $ e buyback da 25 mld $. Titolo −11,83% in seduta, poi +4-5% after-hours.",
-      "why": "Conferma una domanda di infrastruttura AI ancora molto forte, quindi di potenza elettrica per i datacenter, anche se il mercato oggi non premia i titoli AI.",
-      "sources": [
-        {
-          "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-          "href": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-          "site": "CNBC"
-        },
-        {
-          "title": "Dell handily tops estimates, lifts sales and profit guidance",
-          "href": "https://finance.yahoo.com/technology/ai/article/dell-handily-tops-estimates-lifts-sales-and-profit-guidance-212145887.html",
-          "site": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "anthropic",
+      "id": "hp",
       "sectors": [
         "tech"
       ],
-      "title": "Anthropic sotto il prezzo IPO",
-      "summary": "Martedì chiusura a 81,91 $ (−6,5%), con un minimo di 75,61 $: prima volta sotto il prezzo di collocamento di 83 $, al quarto giorno di quotazione.",
-      "why": "Il passo falso della IPO AI più attesa alimenta i dubbi sulle valutazioni del settore e pesa sul sentiment verso nuove quotazioni tech.",
+      "title": "HP +11,4% su conti sopra le attese",
+      "summary": "Q4 fiscale: ricavi 16,0 mld $ (+9,3%), EPS rettificato 0,83 $, di cui 0,15 $ da rimborsi dazi; guidance 2027 sopra le stime e dividendo aumentato.",
+      "why": "Mostra che l'hardware 'tradizionale' può crescere anche mentre il trade AI si sgonfia; parte del beat è però una tantum.",
       "sources": [
         {
-          "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
-          "href": "https://news.bloomberglaw.com/capital-markets/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-          "site": "Bloomberg Law"
+          "title": "HP Inc. Reports Fiscal 2026 Full Year and Fourth Quarter Results",
+          "href": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Reports-Fiscal-2026-Full-Year-and-Fourth-Quarter-Results-Announces-Dividend-Increase/default.aspx",
+          "site": "HP Investor Relations"
         },
         {
-          "title": "Anthropic's stock just broke below its IPO price for the first time",
-          "href": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668",
-          "site": "MarketWatch"
+          "title": "Why HP Inc. Stock Jumped Today",
+          "href": "https://www.fool.com/investing/2026/11/25/why-hp-inc-stock-jumped-nearly-15-today/",
+          "site": "The Motley Fool"
         }
       ]
     },
     {
-      "id": "ambarella",
+      "id": "memorie",
       "sectors": [
         "tech"
       ],
-      "title": "Ambarella −37% dopo l'orario",
-      "summary": "Il produttore di chip per visione AI prevede ricavi Q4 tra 70 e 75 mln $ contro 112 mln $ attesi (LSEG).",
-      "why": "Altro segnale di debolezza nella catena dei semiconduttori più piccoli, in un mercato già nervoso sull'AI.",
+      "title": "Memorie NAND: TrendForce vede prezzi piatti o in calo",
+      "summary": "TrendForce stima prezzi contrattuali NAND nel Q1 2027 tra invariati e −5%; Sandisk chiude −5,57% a 73,61 $ dopo un minimo intraday a 67,02 $.",
+      "why": "Segnale di possibile eccesso di offerta nelle memorie dopo il boom AI, da monitorare per Micron, SK hynix e Samsung.",
       "sources": [
         {
-          "title": "Stock futures slip as traders await key inflation report",
-          "href": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-          "site": "CNBC"
+          "title": "Why is SanDisk stock sliding today?",
+          "href": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-sliding-today-93CH-5051016",
+          "site": "Investing.com"
+        },
+        {
+          "title": "Sandisk Stock Price Down 5.6%",
+          "href": "https://www.marketbeat.com/instant-alerts/price-sandisk-nasdaq-sndk-stock-price-down-56-following-insider-selling-2026-11-25/",
+          "site": "MarketBeat"
         }
       ]
     },
@@ -462,14 +464,19 @@
       "sectors": [
         "energia"
       ],
-      "title": "Petrolio tra surplus e rischio Hormuz",
-      "summary": "Brent −0,5% a 90,97 $ e WTI −0,6% a 81,58 $ alle 02:37 ora italiana, dopo il +2% di martedì. Il surplus atteso dall'IEA nel 4° trimestre bilancia gli attacchi alle navi vicino a Hormuz e gli scontri Arabia Saudita-Houthi.",
-      "why": "Il 29 novembre l'OPEC+ decide le quote 2027: snodo chiave per prezzi dei carburanti e costi energetici in Europa.",
+      "title": "Petrolio su: attacchi Houthi in Arabia Saudita e mine a Hormuz",
+      "summary": "Brent a 94,71 $ (+0,1%) e WTI a 84,03 $ (+0,4%) stanotte, dopo il +3,5% del Brent mercoledì: gli Houthi rivendicano un attacco alla raffineria di Ras Tanura; media iraniani riferiscono petroliere colpite da mine a Hormuz. Scorte USA +1,1 mln barili.",
+      "why": "Il premio di rischio geopolitico torna a salire proprio prima delle riunioni OPEC+ del 29 novembre sulla produzione 2027.",
       "sources": [
         {
-          "title": "Oil prices fall as supply glut concerns offset Middle East disruption fears",
-          "href": "https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html",
-          "site": "CNBC (Reuters)"
+          "title": "Oil rises on supply concerns as Iran claims mine strikes on ships",
+          "href": "https://www.cnbc.com/2026/11/26/oil-wti-brent-hormuz-iran-saudi-arabia.html",
+          "site": "Reuters via CNBC"
+        },
+        {
+          "title": "Oil Price Today (November 26): Brent crude rises to $95",
+          "href": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-26-brent-crude-rises-to-95-as-fresh-attacks-renew-supply-fears-what-are-experts-saying/articleshow/136176331.cms",
+          "site": "Economic Times"
         }
       ]
     },
@@ -478,14 +485,14 @@
       "sectors": [
         "energia"
       ],
-      "title": "Gas: TTF a 91,39 €/MWh, stoccaggi UE bassi",
-      "summary": "Il TTF chiude martedì a 91,39 €/MWh (+3,32%), terzo rialzo di fila; stoccaggi UE al 68,91%, 18,1 punti sotto la media quinquennale.",
-      "why": "Con il freddo e stoccaggi sotto media, il rischio di gas caro in inverno si scarica sul prezzo dell'elettricità italiana.",
+      "title": "Gas TTF in calo sotto 88 €/MWh",
+      "summary": "Il contratto di dicembre perdeva il 4,05% a 87,96 €/MWh alle 13:35 di mercoledì; secondo Bloomberg (via ANSA) 8 navi GNL dal Golfo del Messico hanno deviato verso l'Europa e nel weekend è atteso un rialzo delle temperature in Germania e Francia.",
+      "why": "Più GNL e clima mite allentano la pressione sul gas, ma il prezzo resta su livelli elevati per l'inverno.",
       "sources": [
         {
-          "title": "European gas briefing, 24 Nov 2026: TTF 91.39 EUR/MWh, EU storage 68.9%",
-          "href": "https://gasradar.io/briefing/daily/2026-11-24/",
-          "site": "GasRadar"
+          "title": "Il gas si conferma in calo sotto 88 euro sulla piazza Ttf di Amsterdam",
+          "href": "https://www.ansa.it/sito/notizie/economia/2026/11/25/il-gas-si-conferma-in-calo-sotto-88-euro-sulla-piazza-ttf-di-amsterdam_109eda41-b96e-4cba-87ee-bc2708b511b5.html",
+          "site": "ANSA"
         }
       ]
     },
@@ -494,18 +501,18 @@
       "sectors": [
         "energia"
       ],
-      "title": "PUN di oggi a 258,16 €/MWh",
-      "summary": "Il prezzo unico nazionale per la consegna del 25 novembre sale a 258,16 €/MWh, dopo 249,72 di martedì e 225,83 di lunedì.",
-      "why": "Il costo dell'energia resta il principale ostacolo per datacenter ed energivori in Italia; prezzi zonali Sud/Puglia non verificati.",
+      "title": "PUN in salita a 277,41 €/MWh",
+      "summary": "PUN di giovedì 26/11 a 277,41 €/MWh (+7,46% su mercoledì); PSV a 0,97112 €/Smc (−5,46%). Media parziale di novembre a 250,48 €/MWh contro 230,82 di ottobre.",
+      "why": "Prezzi elettrici in rialzo da mesi rafforzano l'economia di PPA, rinnovabili e accumuli, ma alzano i costi per i datacenter.",
       "sources": [
         {
-          "title": "PUN, TTF, PSV e mercati energetici",
-          "href": "https://www.energymanagement.it/numeri",
-          "site": "EnergyManagement"
+          "title": "PUN oggi 26 novembre 2026: prezzo luce e PSV gas",
+          "href": "https://www.a4energie.it/pun-luce-e-psv-gas-prezzi-allingrosso-aggiornati/",
+          "site": "A4Energie (dati GME/ARERA)"
         },
         {
-          "title": "Mercato del Giorno Prima — rapporto 25/11/2026",
-          "href": "https://www.mercatoelettrico.org/Home/Esiti/Elettricita/MGP/Statistiche/Rapporti/moduleId/9436/controller/StatRapportiME/action/Download?report=20261125MgpReportGiornaliero.pdf",
+          "title": "PUN Index GME",
+          "href": "https://gme.mercatoelettrico.org/it-IT/Home/Esiti/Elettricita/MGP/Esiti/PUN",
           "site": "GME"
         }
       ]
@@ -516,19 +523,19 @@
         "energia",
         "tech"
       ],
-      "title": "Datacenter in Italia: da 0,6 a 1,2 GW entro il 2030",
-      "summary": "Secondo BCG (ripreso da Repubblica) la capacità servita potrebbe raddoppiare a 1,2 GW nel 2030 nello scenario base, fino a 1,7-1,9 GW con un'azione coordinata; ostacoli: costo dell'energia, autorizzazioni e accesso alla rete.",
-      "why": "Inquadra il potenziale di mercato e i colli di bottiglia (rete, permessi) per chi sviluppa datacenter nel Sud Italia.",
+      "title": "Datacenter Italia: 108 GW di richieste, solo 2 GW pronti",
+      "summary": "Dati Terna: a fine ottobre 581 domande di connessione per 108,2 GW (+37% da inizio anno), primo calo mensile (−0,8 GW); solo circa 2 GW 'ready to build'. Arretrano Lombardia, Piemonte, Puglia ed Emilia-Romagna; cresce il Lazio.",
+      "why": "Rilevante per chi sviluppa datacenter: le richieste speculative intasano la rete e regole regionali e nazionali sono in revisione (Lombardia, Senato).",
       "sources": [
         {
-          "title": "Data-center: l'Italia è pronta ad accoglierli",
-          "href": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/11/24/news/data-center_l_italia_e_pronta_ad_accoglierli-425746422/",
-          "site": "la Repubblica"
+          "title": "Data center, la corsa è solo sulla carta. I dati di Terna",
+          "href": "https://www.milanofinanza.it/news/data-center-la-corsa-e-solo-sulla-carta-il-gap-enorme-tra-domande-e-progetti-pronti-202611251911376379",
+          "site": "MilanoFinanza"
         },
         {
-          "title": "Data Center, AI, Energia e sovranità in Italia",
-          "href": "https://www.bcg.com/publications/2026/italy-data-center-ai-energia-e-sovranita-in-italia",
-          "site": "BCG"
+          "title": "Terna — 9M 2026 Consolidated Results Presentation",
+          "href": "https://download.terna.it/terna/Terna_9M_2026_Consolidated_Results_Presentation_8df40c85fce1506.pdf",
+          "site": "Terna"
         }
       ]
     },
@@ -537,19 +544,19 @@
       "sectors": [
         "energia"
       ],
-      "title": "Rinnovabili: appello al governo contro lo stallo",
-      "summary": "Il 24/11 Rinnovabili per l'Italia ha chiesto a governo e MASE un tavolo urgente su autorizzazioni, reti, accumuli e comunità energetiche; il MASE ha intanto aggiornato le regole operative FER X (decreto direttoriale dell'11 novembre).",
-      "why": "Tempi autorizzativi e regole FER X incidono direttamente su bancabilità e calendario dei progetti rinnovabili.",
+      "title": "FER X definitivo: aggiornate le regole operative",
+      "summary": "Il GSE ha aggiornato le regole operative del FER X definitivo (accesso diretto, entrata in esercizio, prezzi di aggiudicazione). Per la prima procedura, secondo Assofotovoltaica, offerte dal 7 al 17 dicembre e graduatorie il 23 dicembre.",
+      "why": "Scadenze ravvicinate per chi ha progetti FV ed eolici in pipeline: verificare la qualifica preliminare entro le date del bando.",
       "sources": [
         {
-          "title": "Energia, appello al governo di Rinnovabili per l'Italia: \"Superiamo lo stallo\"",
-          "href": "https://www.adnkronos.com/economia/energia-appello-al-governo-di-rinnovabili-per-litalia-superiamo-lo-stallo_23N53HOfEGTdJHG86mEi5t",
-          "site": "Adnkronos"
+          "title": "FER X definitivo, aggiornate le regole operative",
+          "href": "https://www.gse.it/servizi-per-te/news/fer-x-definitivo-aggiornate-le-regole-operative1",
+          "site": "GSE"
         },
         {
-          "title": "Decreto direttoriale MASE 11 novembre 2026 (FER X)",
-          "href": "https://www.gse.it/documenti_site/Documenti%20GSE/Servizi%20per%20te/FERX%20DEFINITIVO/DECRETO%20DIRETTORIALE%2011%20NOVEMBRE%202026.pdf",
-          "site": "GSE"
+          "title": "Entrata in vigore del FER X definitivo: contingenti, regole operative e bandi della prima asta",
+          "href": "https://www.assofotovoltaica.it/?p=8293",
+          "site": "Assofotovoltaica"
         }
       ]
     },
@@ -558,14 +565,19 @@
       "sectors": [
         "crypto"
       ],
-      "title": "Bitcoin sotto 60.000 $",
-      "summary": "BTC a 59.104,93 $ (−2,22% in 24 ore, range 58.881-60.695 $); liquidazioni per 87 mln $. Il rimbalzo legato al ritorno di Huang non ha tenuto.",
-      "why": "Le crypto si muovono con il tech: la debolezza su AI e Nasdaq e l'attesa per PCE e Fed restano i driver di breve.",
+      "title": "Bitcoin risale sopra 60.000 $, ma il sentiment resta di paura estrema",
+      "summary": "BTC +2% a 60.397,8 $ alle 07:18 (minimo biennale ~57.000 $ la settimana scorsa), ETH +1,7% a 1.688,78 $. Il disegno di legge sulla Strategic Bitcoin Reserve è votabile alla Camera USA.",
+      "why": "Il rimbalzo segue l'azionario, ma rialzo Fed e Congresso a guida democratica dal 2027 restano freni; BTC è oltre il 50% sotto il massimo di ottobre 2025.",
       "sources": [
         {
-          "title": "Why is Bitcoin price down today? BTC struggles below $60K",
-          "href": "https://crypto.news/bitcoin-price-prediction-etf-outflows-us-pce-gdp/",
-          "site": "crypto.news"
+          "title": "Bitcoin recovers to $60.5k, but rates, regulatory fears persist",
+          "href": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-605k-but-rates-regulatory-fears-persist-5052101",
+          "site": "Investing.com"
+        },
+        {
+          "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+          "href": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+          "site": "CNBC"
         }
       ]
     },
@@ -574,43 +586,76 @@
       "sectors": [
         "crypto"
       ],
-      "title": "ETF bitcoin: −801 mln $ in due sedute",
-      "summary": "Deflussi netti di 231,56 mln $ il 24/11 dopo 569,74 mln $ il 23/11 (SoSoValue); patrimonio complessivo 72,01 mld $, flussi netti cumulati dal lancio 52,04 mld $.",
-      "why": "Domanda istituzionale debole: novembre si avvia verso deflussi vicini ai 5 mld $, un freno a ogni rimbalzo.",
+      "title": "ETF bitcoin: −453 mln $, settima seduta di deflussi",
+      "summary": "Mercoledì 25/11 deflussi netti per 453,0 mln $, guidati da IBIT di BlackRock (−329,7 mln $).",
+      "why": "Gli istituzionali continuano a ridurre l'esposizione: senza un'inversione dei flussi il rimbalzo resta fragile.",
       "sources": [
         {
-          "title": "Why is Bitcoin price down today? BTC struggles below $60K",
-          "href": "https://crypto.news/bitcoin-price-prediction-etf-outflows-us-pce-gdp/",
-          "site": "crypto.news"
+          "title": "Bitcoin ETF Flow (US$m)",
+          "href": "https://farside.co.uk/btc/",
+          "site": "Farside Investors"
+        },
+        {
+          "title": "US Spot Bitcoin ETFs See $453 Million in Net Outflows, Seven Sessions",
+          "href": "https://en.bloomingbit.io/feed/news/125287",
+          "site": "Bloomingbit"
+        }
+      ]
+    },
+    {
+      "id": "regolamentazione",
+      "sectors": [
+        "crypto"
+      ],
+      "title": "SEC: i senatori democratici contro 'Regulation Crypto'; Fidelity chiede un ETF Chainlink",
+      "summary": "Warren e Van Hollen chiedono al presidente SEC Atkins di ritirare le esenzioni per offerte crypto e titoli tokenizzati. Fidelity ha depositato l'S-1 per un ETF spot su Chainlink.",
+      "why": "Il fronte regolatorio USA si fa più incerto in vista del nuovo Congresso, mentre l'offerta di ETF su altcoin continua ad allargarsi.",
+      "sources": [
+        {
+          "title": "Warren, Van Hollen lead push to scrap SEC's Regulation Crypto and innovation exemption",
+          "href": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+          "site": "The Block"
+        },
+        {
+          "title": "Fidelity files for Chainlink ETF, and more",
+          "href": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+          "site": "The Block"
         }
       ]
     }
   ],
   "rumors": [
     {
-      "title": "Nuovi dazi USA su Cina, UE e altre 14 economie",
-      "detail": "Riportato dal WSJ (ripreso da Sole 24 Ore e ANSA): indagine Section 301, UE ≤15%, esclusi acciaio, alluminio e auto. Data e aliquote non annunciate ufficialmente.",
-      "sectors": [
-        "azionario"
-      ]
-    },
-    {
-      "title": "Huang avrebbe ammesso una violazione del codice di condotta",
-      "detail": "Fonte anonima citata da Reuters: nessuna conferma ufficiale di Nvidia.",
+      "title": "Nvidia ferma le spedizioni di server nel Sud-Est asiatico",
+      "detail": "Secondo il Financial Times (ripreso da Reuters), Nvidia avrebbe chiesto ai produttori di server di sospendere le consegne in Malesia, Singapore, Thailandia e Indonesia per le nuove regole USA sull'export. Nessuna conferma ufficiale dell'azienda.",
       "sectors": [
         "tech"
       ]
     },
     {
-      "title": "Brent: livelli discordanti tra le fonti",
-      "detail": "Reuters/CNBC 90,97 $ alle 02:37, XTB e Money.it 87,80 $: possibile differenza di contratto o di orario, da verificare.",
+      "title": "Attacco Houthi a Ras Tanura e mine a Hormuz",
+      "detail": "Rivendicazioni Houthi e notizie di media iraniani (Fars): entità dei danni e impatto sulle esportazioni saudite non verificati in modo indipendente.",
       "sectors": [
         "energia"
       ]
     },
     {
-      "title": "CFTC: BTC ed ETH ammessi nelle riserve delle piattaforme derivati",
-      "detail": "Guida dello staff del 23/11 riportata dal feed notizie di X, con haircut; non verificata su comunicato CFTC.",
+      "title": "Livello del Brent: fonti discordanti",
+      "detail": "Reuters indica 94,71 $ stanotte, mentre Money.it e The Closing Print riportano circa 90,8-90,9 $ mercoledì sera: probabile differenza di contratto di riferimento, da verificare.",
+      "sectors": [
+        "energia"
+      ]
+    },
+    {
+      "title": "BoJ: possibile rialzo di 50 pb",
+      "detail": "Il consigliere Tamura ha detto che potrebbe servire un rialzo di 50 pb se i rischi di inflazione si materializzano: opinione di un membro, non una decisione.",
+      "sectors": [
+        "azionario"
+      ]
+    },
+    {
+      "title": "BTC a 50.000 $?",
+      "detail": "Arthur Hayes (co-fondatore BitMEX) a CNBC: bitcoin potrebbe testare 50.000 $ se il Nasdaq continua a scendere. Opinione, non previsione verificata.",
       "sectors": [
         "crypto"
       ]
@@ -618,20 +663,20 @@
   ],
   "agenda": [
     {
-      "title": "Mercoledì 25 novembre, 14:30 — PCE, PIL e sussidi USA",
-      "detail": "PCE di ottobre (settembre: +3,6% annuo, core +3,1%), seconda stima PIL Q3 (prima stima +3,4% annualizzato) e richieste di sussidi anticipate per il Thanksgiving."
+      "title": "Giovedì 26 novembre — Wall Street chiusa per Thanksgiving",
+      "detail": "Nessun settlement WTI oggi; venerdì seduta corta. Liquidità ridotta anche in Europa."
     },
     {
-      "title": "Giovedì 26 e venerdì 27 novembre — Thanksgiving",
-      "detail": "Wall Street chiusa giovedì, seduta corta venerdì: liquidità ridotta."
+      "title": "Giovedì 26 novembre, 13:30 — Verbali BCE di ottobre",
+      "detail": "Attesi segnali su un possibile rialzo al meeting del 17 dicembre; in agenda anche un intervento di Lagarde."
+    },
+    {
+      "title": "Giovedì 26 novembre — Dati UE e BoE",
+      "detail": "Fiducia consumatori GfK Germania (08:00), M3 eurozona (10:00), Financial Stability Report della Bank of England."
     },
     {
       "title": "Domenica 29 novembre — Riunioni OPEC+",
-      "detail": "I ministri decidono la politica produttiva per il 2027."
-    },
-    {
-      "title": "8-9 dicembre — FOMC",
-      "detail": "CME FedWatch al 95,9% per un rialzo di 25 pb."
+      "detail": "Decisione sulla politica produttiva 2027, senza gli Emirati Arabi Uniti nel gruppo."
     }
   ],
   "homeTiles": [
@@ -659,37 +704,38 @@
   "sectors": {
     "azionario": {
       "title": "Azionario",
-      "lead": "Il rimbalzo Nvidia si sgonfia: Nasdaq e Milano in calo, Asia dei chip a picco; oggi PCE e PIL USA.",
+      "lead": "Rimbalzo intraday a Wall Street, Milano −1,81% sui dazi; oggi USA chiusi e future europei in forte rialzo.",
       "kpiLabels": [
-        "Future S&P 500",
         "S&P 500",
         "Nasdaq",
         "Dow Jones",
         "FTSE MIB",
+        "DAX",
+        "Euro Stoxx 50",
+        "Future Euro Stoxx 50",
         "Nikkei 225",
-        "KOSPI",
-        "Taiex"
+        "KOSPI"
       ],
       "charts": [
         {
-          "heading": "Indici: chiusure di martedì e Asia di oggi",
-          "caption": "USA e Milano chiusura 24/11 (AP, Borsa Italiana); Asia chiusura 25/11 (Yonhap, Economic Daily News, Nikkei); future alle 06:54 (CNBC).",
+          "heading": "Indici: chiusure di mercoledì, Asia e future di oggi",
+          "caption": "USA ed Europa chiusura 25/11 (CNBC, Borsa Italiana, Money.it); Asia chiusura 26/11 (Nikkei, Yonhap); future Euro Stoxx 50 alle 07:10 (Newsquawk).",
           "source": "indexMoves",
           "labels": [
-            "KOSPI",
-            "Taiex",
+            "Future Euro Stoxx 50",
             "Nikkei 225",
-            "FTSE MIB (mar)",
-            "Nasdaq (mar)",
-            "Future S&P 500",
-            "S&P 500 (mar)",
-            "Dow Jones (mar)"
+            "Dow Jones (mer)",
+            "KOSPI",
+            "S&P 500 (mer)",
+            "Nasdaq (mer)",
+            "DAX (mer)",
+            "FTSE MIB (mer)"
           ],
           "emphasis": "none"
         },
         {
           "heading": "Piazza Affari: migliori e peggiori",
-          "caption": "Chiusura di martedì 24/11. Fonte: Money.it.",
+          "caption": "Chiusura di mercoledì 25/11. Fonte: Money.it.",
           "source": "italianMovers",
           "emphasis": "none"
         }
@@ -697,31 +743,27 @@
     },
     "tech": {
       "title": "Tech",
-      "lead": "Nvidia −5,9%, Anthropic sotto il prezzo IPO; Dell batte le stime ma il mercato dubita della redditività dell'AI.",
+      "lead": "Nvidia −3,9% e memorie sotto pressione; HP +11,4% sui conti. Stanotte rimbalzo dei chip asiatici.",
       "kpiLabels": [
-        "Future Nasdaq 100",
         "Nasdaq",
-        "KOSPI",
-        "Taiex"
+        "Nikkei 225",
+        "KOSPI"
       ],
       "charts": [
         {
-          "heading": "Titoli AI e chip",
-          "caption": "USA chiusura 24/11 (CNBC, Yahoo Finance, Bloomberg Law), Ambarella after-hours (CNBC); Corea chiusura 25/11 (Yonhap).",
+          "heading": "Titoli hardware e AI",
+          "caption": "Chiusura di mercoledì 25/11 (CNBC, Motley Fool, Investing.com, MarketBeat).",
           "source": "indexMoves",
           "labels": [
-            "Ambarella (after-hours)",
-            "Dell (mar)",
-            "SK hynix",
-            "Samsung Electronics",
-            "Anthropic (mar)",
-            "Nvidia (mar)"
+            "HP Inc. (mer)",
+            "Nvidia (mer)",
+            "Sandisk (mer)"
           ],
           "emphasis": "none"
         },
         {
           "heading": "Chip e cavi a Piazza Affari",
-          "caption": "Chiusura di martedì 24/11. Fonte: Money.it.",
+          "caption": "Chiusura di mercoledì 25/11. Fonte: Money.it.",
           "source": "italianMovers",
           "labels": [
             "STMicroelectronics",
@@ -733,7 +775,7 @@
     },
     "energia": {
       "title": "Energia",
-      "lead": "Petrolio stretto tra surplus e Hormuz; gas e PUN ancora in salita con stoccaggi UE sotto media.",
+      "lead": "Petrolio su per Houthi e Hormuz, gas in calo con più GNL; PUN ancora in salita.",
       "kpiLabels": [
         "Brent",
         "WTI",
@@ -743,28 +785,28 @@
       "charts": [
         {
           "heading": "Variazioni di petrolio e gas",
-          "caption": "Brent e WTI alle 02:37 ora italiana (Reuters via CNBC); TTF chiusura di martedì 24/11 (GasRadar).",
+          "caption": "Brent e WTI alle 02:37 ora italiana (Reuters via CNBC); TTF alle 13:35 di mercoledì 25/11 (ANSA).",
           "source": "indexMoves",
           "labels": [
-            "TTF (mar)",
             "WTI",
-            "Brent"
+            "Brent",
+            "TTF (mer, 13:35)"
           ],
           "emphasis": "none"
         },
         {
           "heading": "PUN Italia, nazionale",
-          "caption": "€/MWh, 23-25 novembre 2026. Fonti: GME via A4Energie ed EnergyManagement.",
+          "caption": "€/MWh, 24-26 novembre 2026. Fonti: GME via A4Energie.",
           "source": "punZones",
           "emphasis": 2,
           "kind": "level",
-          "note": "Il PUN di mercoledì sale a 258,16 €/MWh (+3,38% su martedì). I prezzi zonali Sud/Puglia non sono stati verificati."
+          "note": "Il PUN di giovedì sale a 277,41 €/MWh (+7,46% su mercoledì). I prezzi zonali Sud/Puglia non sono stati verificati."
         }
       ]
     },
     "crypto": {
       "title": "Crypto",
-      "lead": "BTC sotto 60.000 $ con deflussi ETF per 801 mln $ in due sedute.",
+      "lead": "BTC torna sopra 60.000 $, ma deflussi ETF per la settima seduta di fila.",
       "kpiLabels": [
         "Bitcoin",
         "Ethereum"
@@ -772,16 +814,17 @@
       "charts": [
         {
           "heading": "Variazione di giornata",
-          "caption": "crypto.news alle 06:50 ora italiana, variazione 24 ore. Non è una chiusura ufficiale.",
+          "caption": "Investing.com alle 07:18 ora italiana. Non è una chiusura ufficiale.",
           "source": "indexMoves",
           "labels": [
-            "Bitcoin"
+            "Bitcoin",
+            "Ethereum"
           ],
           "emphasis": "none"
         },
         {
           "heading": "Flussi ETF bitcoin",
-          "caption": "Flussi netti in milioni di dollari. Fonte: SoSoValue via crypto.news.",
+          "caption": "Flussi netti in milioni di dollari. Fonti: SoSoValue via crypto.news (giorni precedenti), Farside (25/11).",
           "source": "etfFlows",
           "emphasis": "none"
         }
